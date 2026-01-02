@@ -1,0 +1,681 @@
+Retailer Name,RetailerID,Batch Id,Group,Description,File Imported,Last Generated,By Category,All Categories,Supplier Summary,Not in Scope,Live
+2 Sisters Food Group (UK),121,18649,,Demo Test Data,07/06/2023 18:15,25/08/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+2 Sisters Food Group (UK),121,19668,Test COMSC-645,RegressionTest001,05/03/2024 20:08,29/10/2024 17:34,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+2 Sisters Food Group (UK),121,19821,,Test Date Format,11/01/2024 20:23,29/10/2024 17:38,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+2 Sisters Food Group (UK),121,19915,,AnnotationUpdate_SameRetailerUID_Range1,26/04/2024 19:08,26/04/2024 19:08,By Category,All Categories,Supplier Summary,Not in Scope,
+2 Sisters Food Group (UK),121,19916,,AnnotationUpdate_SameRetailerUID_Range2,26/04/2024 19:12,26/04/2024 19:12,By Category,All Categories,Supplier Summary,Not in Scope,
+2 Sisters Food Group (UK),121,19917,COMSC-677 Test,2 Sisters Food Group (UK) Range3,29/04/2024 18:08,29/04/2024 18:09,By Category,All Categories,Supplier Summary,Not in Scope,
+2 Sisters Food Group (UK),121,20014,,Test range 113,26/06/2024 17:27,26/06/2024 17:28,By Category,All Categories,Supplier Summary,Not in Scope,
+2 Sisters Food Group (UK),121,20029,,Test Import issue22,08/07/2024 20:22,30/09/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+2 Sisters Food Group (UK),121,20030,,Test import issue 2,27/09/2024 15:54,01/10/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+2 Sisters Food Group (UK),121,20031,,Test range 1102,24/09/2024 18:16,01/10/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+2 Sisters Food Group (UK),121,20032,,Test import issue 1102,08/07/2024 21:45,30/09/2024 21:06,By Category,All Categories,Supplier Summary,Not in Scope,
+2 Sisters Food Group (UK),121,20033,,test import issue 1103,08/07/2024 21:48,08/07/2024 21:48,By Category,All Categories,Supplier Summary,Not in Scope,
+2 Sisters Food Group (UK),121,20182,,TestRetailer - 2 Sisters Food Group (UK),28/10/2024 22:23,22/01/2025 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+2 Sisters Food Group (UK),121,20319,,test`,29/07/2025 20:59,29/07/2025 21:00,By Category,All Categories,Supplier Summary,Not in Scope,
+AB World Foods (WL),369,14611,,AD World Foods Test 01,01/05/2023 19:38,25/07/2023 22:16,By Category,All Categories,Supplier Summary,Not in Scope,
+AB World Foods (WL),369,19997,,AB World Foods (WL) Test,20/06/2024 17:41,04/07/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+AB World Foods (WL),369,20085,,name,09/10/2024 14:51,,By Category,All Categories,Supplier Summary,Not in Scope,
+AB World Foods (WL),369,20165,,TestAB1,25/10/2024 20:02,,By Category,All Categories,Supplier Summary,Not in Scope,
+AB World Foods (WL),369,20184,,TestRetailer - TestRetailer - 7 Eleven,28/10/2024 22:25,27/01/2025 21:23,By Category,All Categories,Supplier Summary,Not in Scope,
+AF Blakemore,790,19913,,AF Blakemore Range 1,10/05/2024 21:57,10/05/2024 21:57,By Category,All Categories,Supplier Summary,Not in Scope,
+AF Blakemore,790,20190,,TestRetailer - AF Blakemore,28/10/2024 22:30,02/02/2025 21:13,By Category,All Categories,Supplier Summary,Not in Scope,
+AG Parfett & Sons,145,5881,"Miscellaneous Ranges (All Locations), Lincy IAC Test",XML Range,02/12/2023 04:14,13/02/2025 21:24,By Category,All Categories,Supplier Summary,Not in Scope,
+AG Parfett & Sons,145,19938,,AG Parfett & Sons Range1,30/09/2024 15:18,22/05/2024 20:33,By Category,All Categories,Supplier Summary,Not in Scope,
+AG Parfett & Sons,145,20191,,TestRetailer - AG Parfett & Sons,28/10/2024 22:31,03/02/2025 21:22,By Category,All Categories,Supplier Summary,Not in Scope,
+Agorartvya,720,11610,,Agorartvya Syndication Test Range,01/05/2020 16:11,26/07/2023 14:43,By Category,All Categories,Supplier Summary,Not in Scope,
+Agorartvya,720,19896,,Agorartvya Range 1,12/04/2024 02:38,05/07/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Agorartvya,720,19906,,Test old range,16/05/2024 19:46,04/07/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Agorartvya,720,20193,,TestRetailer - Agorartvya,28/10/2024 22:32,05/02/2025 21:14,By Category,All Categories,Supplier Summary,Not in Scope,
+AllDayMarket - UK,792,20212,,TestRetailer -AllDayMarket - UK,28/10/2024 22:55,24/02/2025 21:23,By Category,All Categories,Supplier Summary,Not in Scope,
+Alliance Healthcare,280,4527,Miscellaneous Ranges (All Locations),Alliance Healthcare Match List,21/11/2014 16:47,26/07/2023 23:48,By Category,All Categories,Supplier Summary,Not in Scope,
+Alliance Healthcare,280,12088,,Coverage Check,05/04/2021 13:39,25/07/2023 16:32,By Category,All Categories,Supplier Summary,Not in Scope,
+Alliance Healthcare,280,20082,,samueldescriptiontest - 1,16/10/2024 20:55,29/10/2024 17:39,By Category,All Categories,Supplier Summary,Not in Scope,
+Alliance Healthcare,280,20223,,TestRetailer - Alliance Healthcare,29/10/2024 10:17,29/10/2024 10:17,By Category,All Categories,Supplier Summary,Not in Scope,
+Amazon,28,8622,,Status Update - DO NOT USE,13/01/2016 11:48,13/01/2016 11:50,By Category,All Categories,Supplier Summary,Not in Scope,
+Amazon,28,20267,,Test11031,11/03/2025 16:13,08/06/2025 21:06,By Category,All Categories,Supplier Summary,Not in Scope,
+Amazon Grocery,67,1732,"UK Merchandising Reports, UK Content Usage Matrix",XML Range List,27/05/2024 22:10,25/08/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Amazon H&B,68,896,"Retail View, UK Content Matrix, UK Content Usage Matrix",XML Feed - DO NOT USE,28/10/2014 02:00,13/02/2025 21:16,By Category,All Categories,Supplier Summary,Not in Scope,
+Amazon H&B,68,4374,Miscellaneous Ranges (All Locations),Amazon H&B To Chase,06/10/2014 12:21,26/07/2023 23:46,By Category,All Categories,Supplier Summary,Not in Scope,
+Amazon UK,954,12500,"Testing - Regression, TestRD-2710",Amazon UK HFSS coverage,08/02/2022 16:47,,By Category,All Categories,Supplier Summary,Not in Scope,
+Amazon UK,954,12501,"Testing - Regression, TestRD-2710",Amazon UK HFSS coverage,08/02/2022 17:01,25/07/2023 21:55,By Category,All Categories,Supplier Summary,Not in Scope,
+Appleby Westward,919,12315,,XML Range,04/04/2022 19:31,13/02/2025 21:12,By Category,All Categories,Supplier Summary,Not in Scope,
+Asda,4,773,"Retail View, UK Content Usage Matrix, UK All - Reporting, UK XMLs 2021",XML Range - DO NOT USE,11/04/2022 20:17,13/02/2025 21:16,By Category,All Categories,Supplier Summary,Not in Scope,
+Asda,4,9883,"Order Cycle Times, UK Sales Reports, API Coverage Ranges for UK, Nikoli P UK Salesforce Ranges, UK&IE SF Web & Revisions ranges",New Main Range Current,04/04/2022 16:08,13/02/2025 21:28,By Category,All Categories,Supplier Summary,Not in Scope,
+Asda,4,12231,"UK&IE SF CGI ranges, Test Group",CGI Range,08/10/2021 16:27,13/02/2025 21:11,By Category,All Categories,Supplier Summary,Not in Scope,
+Asda,4,12334,Asda Connect+ Range,connect range,21/03/2022 17:04,29/10/2024 17:22,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Asda,4,12342,"UK&IE SF Web & Revisions ranges, UK&IE SF Merch ranges",Asda Brexit and Packaging Updates Chase Range,11/10/2021 15:19,29/10/2024 17:22,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Asda,4,12573,,Asda Brexit matched range,18/03/2022 14:39,29/10/2024 17:31,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Asda,4,12574,,Asda Brexit unmatched range,18/03/2022 14:48,29/10/2024 17:31,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Asda,4,12596,UK&IE SF Web & Revisions ranges,Asda missing nutrition range,06/04/2022 15:40,29/10/2024 17:32,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Asda,4,16634,Test Group,Data24,09/05/2023 19:21,25/07/2023 22:21,By Category,All Categories,Supplier Summary,Not in Scope,
+Asda,4,19672,,testAddedOn,04/10/2023 15:31,29/10/2024 17:34,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Asda,4,19673,,testaddedOn,11/10/2023 17:36,29/10/2024 17:34,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Asda,4,19971,,Test range list 03,04/07/2024 18:55,04/07/2024 18:56,By Category,All Categories,Supplier Summary,Not in Scope,
+Asda,4,19972,,Test range list 04,04/07/2024 18:51,26/09/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Asda,4,20035,Test Group,Asda RangeOnline Date Test,19/08/2024 17:23,29/10/2024 17:39,By Category,All Categories,Supplier Summary,Not in Scope,
+Asda,4,20036,,Asda RangeOnline Date Test2,19/08/2024 17:52,19/08/2024 17:52,By Category,All Categories,Supplier Summary,Not in Scope,
+Asda,4,20037,,Asda RangeOnlineTest 3,19/08/2024 17:47,19/08/2024 17:47,By Category,All Categories,Supplier Summary,Not in Scope,
+Asda,4,20038,,Asda RangeOnline Date Test4,19/08/2024 19:23,19/08/2024 19:23,By Category,All Categories,Supplier Summary,Not in Scope,
+Asda,4,20039,,Asda RangeOnline Date Test5,19/08/2024 19:34,19/08/2024 19:34,By Category,All Categories,Supplier Summary,Not in Scope,
+Asda,4,20177,,RETR336DemoTest7,28/10/2024 19:31,23/01/2025 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Basket,817,11981,,Coverage check,19/01/2021 12:33,27/07/2023 08:06,By Category,All Categories,Supplier Summary,Not in Scope,
+Basket,817,19817,,test,08/01/2024 21:52,29/10/2024 17:38,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Basket,817,19881,,Reg Test 002,22/05/2024 20:42,03/07/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Basket,817,19951,,Test Range Basket001,27/05/2024 19:22,21/08/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Basket,817,19953,,Test Range Basket002,27/05/2024 20:12,22/08/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Basket,817,19957,,TestRangebasket003,27/05/2024 22:08,31/07/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Basket,817,19958,,TestRangeBasket004,31/05/2024 19:28,30/08/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Basket,817,19959,,TestRangeBasket005,31/05/2024 18:39,31/05/2024 18:39,By Category,All Categories,Supplier Summary,Not in Scope,
+Best-one,52,18657,,TestData47,16/05/2023 11:46,25/07/2023 22:22,By Category,All Categories,Supplier Summary,Not in Scope,
+Best-one,52,18658,,TestData48,16/05/2023 12:15,25/07/2023 22:22,By Category,All Categories,Supplier Summary,Not in Scope,
+Best-one,52,18659,,TestData49,04/10/2023 19:15,29/10/2024 17:32,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Best-one,52,18660,,TestData50,16/05/2023 12:23,25/07/2023 22:22,By Category,All Categories,Supplier Summary,Not in Scope,
+Best-one,52,18661,,TestData51,16/05/2023 12:26,25/07/2023 22:22,By Category,All Categories,Supplier Summary,Not in Scope,
+Best-one,52,18662,,TestData52,16/05/2023 12:30,25/07/2023 22:22,By Category,All Categories,Supplier Summary,Not in Scope,
+Best-one,52,18663,,TestData53,16/05/2023 12:33,25/07/2023 22:22,By Category,All Categories,Supplier Summary,Not in Scope,
+Best-one,52,18664,,TestData54,16/05/2023 12:37,25/07/2023 22:22,By Category,All Categories,Supplier Summary,Not in Scope,
+Bestway (Wholesale),53,971,"UK Merchandising Reports, UK Live Retail Reports , UK Content Matrix, UK Content Usage Matrix, UK Sales Reports, UK All - Reporting, Order Cycle Times, API Coverage Ranges for UK",!AUTO XML Range!,11/04/2022 20:16,13/02/2025 21:17,By Category,All Categories,Supplier Summary,Not in Scope,
+Bidfood,62,9492,"UK Live Retail Reports , UK All - Reporting",March Do Not Chase,18/08/2021 19:02,10/02/2025 21:13,By Category,All Categories,Supplier Summary,Not in Scope,
+Bidfood,62,14613,,Bidfood test,12/12/2025 13:08,12/12/2025 13:09,By Category,All Categories,Supplier Summary,Not in Scope,
+Bidfood,62,20405,,Missing Image [Do Not Chase],12/12/2025 15:13,16/12/2025 21:08,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Booker,26,572,"UK Merchandising Reports, UK Content Matrix, UK Content Usage Matrix, 1169 Reporting Group, UK All - Reporting, Order Cycle Times, API Coverage Ranges for UK",All Products (XML) - DO NOT USE,03/01/2024 13:48,16/12/2025 21:26,By Category,All Categories,Supplier Summary,Not in Scope,
+Booker,26,886,Stats Generator Group,Web Paid Products (XML),04/03/2022 20:44,16/12/2025 21:26,By Category,All Categories,Supplier Summary,Not in Scope,
+Booker,26,10884,UK & IE Sales Reports,Booker 2021 Q1 Chase Range,20/01/2021 15:30,29/10/2024 16:40,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Booker,26,12425,,Booker Web Branded NPD,14/12/2021 10:29,29/10/2024 17:23,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Booker,26,12429,,Booker Coverage range,15/12/2021 14:54,29/10/2024 17:24,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Booker,26,12459,,Booker Tail for Resend,12/01/2022 14:57,29/10/2024 17:27,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Booker,26,12463,,Booker Midas Resend Batches,17/01/2022 18:49,29/10/2024 17:27,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Booker,26,12473,,Booker Coverage Check 20.01.21,20/01/2022 19:18,29/10/2024 17:28,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Booker,26,12576,,Booker Core/Evolve Range Check,18/03/2022 18:42,29/10/2024 17:32,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Booker,26,19814,,RangeOnlineTest4,05/01/2024 22:58,,By Category,All Categories,Supplier Summary,Not in Scope,
+Booker,26,19815,,RangeOnlineTest5,05/01/2024 22:59,,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Booker,26,19816,,RangeOnlineTest6,05/01/2024 23:12,,By Category,All Categories,Supplier Summary,Not in Scope,
+Booker,26,20166,,BookerTest1,25/10/2024 20:04,,By Category,All Categories,Supplier Summary,Not in Scope,
+Booker,26,20280,,SuBookerTest-090420251,09/04/2025 20:10,09/07/2025 21:06,By Category,All Categories,Supplier Summary,Not in Scope,
+Booker Direct,272,20101,,RETR-338-HiddenBatch-Test-NotLive,15/10/2024 19:29,15/10/2024 19:29,By Category,All Categories,Supplier Summary,Not in Scope,
+Booker Direct,272,20102,,RETR-338-LiveBatch-Test-NotLive,15/10/2024 19:31,15/10/2024 19:31,By Category,All Categories,Supplier Summary,Not in Scope,
+Booker Direct,272,20103,,RETR-338-LiveBatch-Test-Daily,15/10/2024 20:39,15/10/2024 20:40,By Category,All Categories,Supplier Summary,Not in Scope,
+Booker Direct,272,20104,,RETR-338-LiveBatch-Test-XMAPI,15/10/2024 20:41,15/10/2024 20:41,By Category,All Categories,Supplier Summary,Not in Scope,
+Booker Direct,272,20105,,RETR-338-LiveBatch-Test-Weekly,15/10/2024 20:42,15/10/2024 20:42,By Category,All Categories,Supplier Summary,Not in Scope,
+Booker Direct,272,20106,,RETR-338-LiveBatch-Test-WeeklyMonday,15/10/2024 20:43,15/10/2024 20:43,By Category,All Categories,Supplier Summary,Not in Scope,
+Booker Direct,272,20107,,RETR-338-LiveBatch-Test-EveryMonday,15/10/2024 20:44,15/10/2024 20:44,By Category,All Categories,Supplier Summary,Not in Scope,
+Booker Direct,272,20108,,RETR-338-LiveBatch-Test-EveryTuesday,15/10/2024 20:44,15/10/2024 20:44,By Category,All Categories,Supplier Summary,Not in Scope,
+Booker Direct,272,20109,,RETR-338-LiveBatch-Test-EveryWednesday,15/10/2024 20:45,15/10/2024 20:45,By Category,All Categories,Supplier Summary,Not in Scope,
+Booker Direct,272,20110,,RETR-338-LiveBatch-Test-EveryFriday,15/10/2024 20:45,15/10/2024 20:45,By Category,All Categories,Supplier Summary,Not in Scope,
+Booker Direct,272,20111,,RETR-338-LiveBatch-Test-Monthly,15/10/2024 20:48,15/10/2024 20:48,By Category,All Categories,Supplier Summary,Not in Scope,
+Booker Direct,272,20112,,RETR-338-LiveBatch-Test-EvryMonth,15/10/2024 20:49,15/10/2024 20:49,By Category,All Categories,Supplier Summary,Not in Scope,
+Booker Direct,272,20113,,RETR-338-LiveBatch-Test-Evry6Month,15/10/2024 20:49,15/10/2024 20:49,By Category,All Categories,Supplier Summary,Not in Scope,
+Booker Direct,272,20114,,RETR-338-LiveBatch-Test-Quaterly,15/10/2024 20:50,15/10/2024 20:50,By Category,All Categories,Supplier Summary,Not in Scope,
+Booker Limited UK,834,12553,,Booker V5 XML Coverage File - Do Not Touch,08/04/2022 19:27,13/02/2025 21:14,By Category,All Categories,Supplier Summary,Not in Scope,
+Booker Ltd,281,11974,"UK & IE Sales Reports, UK & IE Booker Merch Salesforce, Nikoli P UK Salesforce Ranges, UK&IE SF Merch ranges",Booker Spaceman Merchandising,26/11/2024 12:43,14/02/2025 21:06,By Category,All Categories,Supplier Summary,Not in Scope,
+Booker Ltd,281,12009,,Booker Spaceman OL,08/04/2022 12:11,13/02/2025 21:07,By Category,All Categories,Supplier Summary,Not in Scope,
+Booker Ltd,281,12022,"UK & IE Sales Reports, Nikoli P UK Salesforce Ranges",Booker Spaceman Merch Priority,10/05/2021 10:21,29/10/2024 17:13,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Booker Ltd,281,20252,,Test1,25/11/2024 19:19,22/02/2025 21:13,By Category,All Categories,Supplier Summary,Not in Scope,
+Booker Ltd,281,20253,,BookerTest-25111,25/11/2024 19:23,22/02/2025 21:13,By Category,All Categories,Supplier Summary,Not in Scope,
+Booker RNF,462,9137,,XML Range,04/08/2021 20:55,13/02/2025 21:27,By Category,All Categories,Supplier Summary,Not in Scope,
+Boots,57,20305,,BootsTest-24071,24/07/2025 12:28,16/10/2025 21:06,By Category,All Categories,Supplier Summary,Not in Scope,
+Boots,57,20306,,Bootes Test-24072,24/07/2025 12:51,24/07/2025 21:28,By Category,All Categories,Supplier Summary,Not in Scope,
+Boots,57,20307,,BootsTest-24073,24/07/2025 13:53,24/07/2025 13:54,By Category,All Categories,Supplier Summary,Not in Scope,
+Boots,57,20316,,OldTest-29071,29/07/2025 09:55,26/10/2025 21:25,By Category,All Categories,Supplier Summary,Not in Scope,
+Boots,57,20358,,TestRange-12081,12/08/2025 17:53,06/11/2025 21:07,By Category,All Categories,Supplier Summary,Not in Scope,
+Boots,57,20359,,TestRange-12083,12/08/2025 17:56,06/11/2025 21:07,By Category,All Categories,Supplier Summary,Not in Scope,
+Boots,57,20360,,TestRange-12083,12/08/2025 18:16,07/11/2025 21:06,By Category,All Categories,Supplier Summary,Not in Scope,
+Brake Bros Ltd,170,10319,,XML Range,29/10/2021 19:12,13/02/2025 21:29,By Category,All Categories,Supplier Summary,Not in Scope,
+Brake Bros Ltd,170,20228,,TestRetailer - Brake Bros Ltd,29/10/2024 10:22,10/02/2025 21:15,By Category,All Categories,Supplier Summary,Not in Scope,
+Carrefour UAE,328,11281,,Carrefour priority range 2019,02/09/2019 10:43,26/07/2023 11:45,By Category,All Categories,Supplier Summary,Not in Scope,
+Carrefour UAE,328,11282,,Carrefour test range 2019,02/09/2019 11:04,26/07/2023 11:46,By Category,All Categories,Supplier Summary,Not in Scope,
+Cegedim,807,11939,,Coverage check range,09/12/2020 12:45,27/07/2023 07:59,By Category,All Categories,Supplier Summary,Not in Scope,
+Cegedim,807,11980,,Coverage check 2021,18/01/2021 16:18,27/07/2023 08:04,By Category,All Categories,Supplier Summary,Not in Scope,
+Celesio,554,20005,,RangeSal21066,21/06/2024 17:55,21/06/2024 17:55,By Category,All Categories,Supplier Summary,Not in Scope,
+Celesio,554,20006,,RangeSal21066,08/07/2024 21:00,30/09/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Central Convenience,420,11752,,DO NOT USE - CE Coop Merch Coverage Test,28/07/2020 15:27,,By Category,All Categories,Supplier Summary,Not in Scope,
+Central Convenience,420,20007,,RangeSal21067,21/06/2024 18:01,21/06/2024 18:02,By Category,All Categories,Supplier Summary,Not in Scope,
+Central Convenience,420,20008,,RangeSal21069,21/06/2024 18:07,21/06/2024 18:07,By Category,All Categories,Supplier Summary,Not in Scope,
+Central Convenience,420,20009,,RangeSal210610,21/06/2024 18:11,21/06/2024 18:11,By Category,All Categories,Supplier Summary,Not in Scope,
+Central England Co-op,746,11751,,DO NOT USE - CE Coop Merch Coverage Test,28/07/2020 13:26,,By Category,All Categories,Supplier Summary,Not in Scope,
+Central England Co-op,746,11754,,DO NOT USE - CE Coop Merch Coverage Test,29/07/2020 14:07,,By Category,All Categories,Supplier Summary,Not in Scope,
+Chemist Direct,130,20230,,TestRetailer - Chemist Direct,29/10/2024 10:32,12/02/2025 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Co-op Food UK,889,12167,,Co-op Master Range XML (DO NOT USE),11/04/2022 20:12,13/02/2025 21:11,By Category,All Categories,Supplier Summary,Not in Scope,
+Co-op Food UK,889,12256,UK&IE SF Web & Revisions ranges,Local & World Foods,09/08/2021 16:39,29/10/2024 17:20,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Co-op Food UK,889,12279,,P13 Protein,27/08/2021 08:42,29/10/2024 17:21,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Co-op Food UK,889,12364,UK&IE SF MOI ranges,Branded Missing MOI,01/11/2021 14:30,01/02/2025 21:08,By Category,All Categories,Supplier Summary,Not in Scope,
+Co-op Food UK,889,12515,UK&IE SF Web & Revisions ranges,Branded Mothers Day 2022,22/02/2022 10:36,29/10/2024 17:30,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Co-Op Merchandising,177,8629,"UK & IE Sales Reports, ROI Sales Reports, UK Sales Reports, UK Merchandising Matrix, UK All - Reporting, Order Cycle Times, UK Sales Reports, API Coverage Ranges for UK, UK&IE SF Merch ranges",Merchandising Projects,16/12/2025 22:15,01/02/2025 21:08,By Category,All Categories,Supplier Summary,Not in Scope,
+Co-Op Merchandising,177,20219,,Co-Op Merchandising Range1,29/10/2024 03:36,23/04/2025 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Co-Operative Group,71,11174,UK XMLs 2021,XML Range,07/10/2021 19:16,26/07/2023 11:34,By Category,All Categories,Supplier Summary,Not in Scope,
+Co-Operative Group,71,12087,Nikoli P UK Salesforce Ranges,Co-op Own Label - April 2021,08/04/2021 16:05,29/10/2024 17:15,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Co-Operative Group,71,12116,,Produce Range,20/05/2021 17:15,29/10/2024 17:17,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Co-Operative Group,71,12129,,Protein Range,07/10/2021 16:32,29/10/2024 17:17,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Co-Operative Group,71,12165,,Desserts,21/05/2021 13:38,29/10/2024 17:17,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Co-Operative Group,71,12207,UK&IE SF Web & Revisions ranges,Impulse Range,30/06/2021 14:08,29/10/2024 17:20,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Co-Operative Group,71,12208,UK&IE SF Web & Revisions ranges,BWS Range,30/06/2021 14:27,29/10/2024 17:20,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Co-Operative Group,71,12247,,Co-op Marketing Report,30/07/2021 13:22,29/10/2024 17:20,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Co-Operative Group,71,12341,UK&IE SF Web & Revisions ranges,ISB Trial,08/10/2021 14:37,29/10/2024 17:22,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Co-Operative Group,71,12369,UK All - Reporting,Co-op Online Master Range,08/04/2022 16:50,13/02/2025 21:12,By Category,All Categories,Supplier Summary,Not in Scope,
+Co-Operative Group,71,12403,,Co-op Adhoc,19/01/2022 11:54,29/10/2024 17:23,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Co-Operative Group,71,12408,,November Revisions 2021,30/11/2021 16:10,29/10/2024 17:23,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Co-Operative Group,71,12414,,Prepared P1,07/12/2021 15:19,29/10/2024 17:23,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Co-Operative Group,71,12440,UK&IE SF Web & Revisions ranges,FTG 2022,23/02/2022 13:03,29/10/2024 17:24,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Co-Operative Group,71,12454,,P1 Wine Range Change,06/01/2022 14:48,29/10/2024 17:26,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Co-Operative Group,71,12456,UK&IE SF Web & Revisions ranges,January Revisions,11/11/2024 21:36,11/11/2024 21:36,By Category,All Categories,Supplier Summary,Not in Scope,
+Co-Operative Group,71,12464,UK&IE SF Web & Revisions ranges,Easter 2022,04/02/2022 14:00,29/10/2024 17:27,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Co-Operative Group,71,12474,,HFSS Reporting (DO NOT USE),30/03/2022 19:34,01/02/2025 21:10,By Category,All Categories,Supplier Summary,Not in Scope,
+Co-Operative Group,71,12478,,Valentines 2022,24/01/2022 12:18,29/10/2024 17:29,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Co-Operative Group,71,12485,,P2 Range Change,15/02/2022 14:18,29/10/2024 17:29,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Co-Operative Group,71,12492,UK&IE SF Web & Revisions ranges,Healthy Snacking,31/03/2022 15:05,29/10/2024 17:29,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Co-Operative Group,71,12503,UK & IE Sales Reports,Marketing Missing Images,14/02/2022 13:51,29/10/2024 17:29,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Co-Operative Group,71,12509,,Pet Food,17/02/2022 12:08,29/10/2024 17:30,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Co-Operative Group,71,12516,,OL Mothers Day 2022,22/02/2022 11:32,29/10/2024 17:30,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Co-Operative Group,71,12522,UK&IE SF Web & Revisions ranges,Beers & Ales,23/02/2022 13:12,29/10/2024 17:30,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Co-Operative Group,71,12525,UK&IE SF Web & Revisions ranges,Crisps/Snacks/Nut,24/02/2022 13:13,29/10/2024 17:30,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Co-Operative Group,71,12526,UK&IE SF Web & Revisions ranges,Ice Cream,24/02/2022 14:14,29/10/2024 17:30,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Co-Operative Group,71,12554,UK&IE SF Web & Revisions ranges,Range Change P3,08/03/2022 16:15,29/10/2024 17:31,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Co-Operative Group,71,12563,UK&IE SF Web & Revisions ranges,Branded Imagery Check March 2022,14/03/2022 18:24,29/10/2024 17:31,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Co-Operative Group,71,12564,,HFSS New,15/03/2022 10:27,29/10/2024 17:31,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Co-Operative Group,71,12581,UK&IE SF Web & Revisions ranges,Prepared P6 Range Change SF,28/03/2022 11:49,29/10/2024 17:32,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Co-Operative Group,71,12582,,Prepared P6 Range Change RF,28/03/2022 11:55,29/10/2024 17:32,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Co-Operative Group,71,12592,,Amazon P5 Lines,05/04/2022 11:51,29/10/2024 17:32,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Co-Operative Group,71,12600,,Festivals 2022,08/04/2022 17:53,29/10/2024 17:32,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Co-Operative Group,71,19868,,Co-op NPD Supplier Funded 1,21/02/2024 17:02,29/10/2024 17:38,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Co-Operative Group,71,20075,,chartest03102024-1,03/10/2024 20:45,29/10/2024 17:39,By Category,All Categories,Supplier Summary,Not in Scope,
+Commission Test,23,19661,,Import Perf Testing Batch,11/07/2023 10:33,29/10/2024 17:33,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Confex,959,12555,,Confex Direct Check,08/03/2022 16:21,25/07/2023 22:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Cornershop Online,168,20069,,chartest3,02/10/2024 22:37,,By Category,All Categories,Supplier Summary,Not in Scope,
+Cornershopapp,964,12585,,Cornershopapp,31/03/2022 11:24,,By Category,All Categories,Supplier Summary,Not in Scope,
+Cornershopapp,964,12586,,Cornershopapp,31/03/2022 11:32,25/07/2023 22:09,By Category,All Categories,Supplier Summary,Not in Scope,
+Costcutter,84,9136,"UK Live Retail Reports , UK Sales Reports, Order Cycle Times, UK Sales Reports, API Coverage Ranges for UK",XML Range,02/08/2021 20:10,13/02/2025 21:27,By Category,All Categories,Supplier Summary,Not in Scope,
+Covetrus Syndication,684,11464,,Covetrus Syndication Coverage Exercise,16/01/2020 14:32,26/07/2023 12:57,By Category,All Categories,Supplier Summary,Not in Scope,
+CSY Retail,81,20079,,chartest031024-5,03/10/2024 22:00,,By Category,All Categories,Supplier Summary,Not in Scope,
+DeeBee,36,12340,,XML Range,08/04/2022 19:04,25/07/2023 18:15,By Category,All Categories,Supplier Summary,Not in Scope,
+DeeBee,36,20372,,DeeBee-Test1,10/09/2025 11:59,12/12/2025 21:31,By Category,All Categories,Supplier Summary,Not in Scope,
+DeeBee,36,20373,,DeeBee-Test1,10/09/2025 12:14,01/12/2025 21:17,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+DeeBee,36,20374,,DeeBee-Test3,10/09/2025 12:27,01/12/2025 21:22,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+DeeBee,36,20375,,DeeBee-Test4,10/09/2025 12:42,01/12/2025 21:26,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+DeeBee,36,20378,,Deebee-Test4,11/09/2025 16:23,11/11/2025 21:14,By Category,All Categories,Supplier Summary,Not in Scope,
+DeeBee,36,20379,,DeeBee-Test6,11/09/2025 16:43,09/12/2025 21:23,By Category,All Categories,Supplier Summary,Not in Scope,
+DeeBee,36,20380,,DeeBee-Test7,11/09/2025 17:04,09/12/2025 21:24,By Category,All Categories,Supplier Summary,Not in Scope,
+DeeBee,36,20396,,DB1,30/10/2025 15:34,16/12/2025 21:21,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+DeeBee,36,20397,,DB2,30/10/2025 15:37,30/10/2025 15:37,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+DeeBee,36,20398,,DB3,30/10/2025 15:45,30/10/2025 15:46,By Category,All Categories,Supplier Summary,Not in Scope,
+DeeBee,36,20399,,DB4,30/10/2025 16:24,14/12/2025 21:07,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Deliveroo - Syndication,864,12093,,Deliveroo - Syndication (Test Range),08/04/2021 13:10,25/07/2023 16:33,By Category,All Categories,Supplier Summary,Not in Scope,
+Deliveroo UAE,956,12512,,Deliveroo UAE - UK coverage check,20/10/2023 20:18,20/10/2023 20:20,By Category,All Categories,Supplier Summary,Not in Scope,
+Deliveroo UAE,956,12513,,Deliveroo UAE - US coverage check,09/03/2022 12:11,25/07/2023 21:56,By Category,All Categories,Supplier Summary,Not in Scope,
+Deliveroo UAE,956,12518,,Deliveroo UAE - PL coverage check,22/02/2022 15:32,25/07/2023 21:56,By Category,All Categories,Supplier Summary,Not in Scope,
+Deliveroo UAE,956,12547,,Deliveroo UAE - CZ coverage check,09/03/2022 11:01,25/07/2023 22:04,By Category,All Categories,Supplier Summary,Not in Scope,
+Deliveroo UAE,956,12548,,Deliveroo UAE - SK coverage check,09/03/2022 11:12,25/07/2023 22:04,By Category,All Categories,Supplier Summary,Not in Scope,
+Deliveroo UAE,956,12549,,Deliveroo UAE - PL coverage check,09/03/2022 11:20,25/07/2023 22:04,By Category,All Categories,Supplier Summary,Not in Scope,
+Deliveroo UAE,956,12550,,Deliveroo UAE - HU coverage check,09/03/2022 11:29,25/07/2023 22:04,By Category,All Categories,Supplier Summary,Not in Scope,
+Deliveroo UAE,956,12551,,Deliveroo UAE - BE coverage check,09/03/2022 11:38,25/07/2023 22:04,By Category,All Categories,Supplier Summary,Not in Scope,
+Deliveroo UAE,956,12552,,Deliveroo UAE - NL coverage check,09/03/2022 11:51,25/07/2023 22:04,By Category,All Categories,Supplier Summary,Not in Scope,
+Dubai Duty Free UAE,157,19863,,AddedOnTestRange,12/02/2024 21:51,29/10/2024 17:38,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Dubai Duty Free UAE,157,19864,,AddedOnTestRange1,12/02/2024 22:11,29/10/2024 17:38,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Dubai Duty Free UAE,157,19865,,AddedOnTestRange2,12/02/2024 22:58,29/10/2024 17:38,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Dummy,958,17643,,Data40,16/10/2023 21:07,29/10/2024 17:32,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+EMarket,197,17642,,Data39,11/05/2023 16:49,25/07/2023 22:21,By Category,All Categories,Supplier Summary,Not in Scope,
+EMarket,197,20304,,EMarket-Test1,24/07/2025 12:01,16/10/2025 21:06,By Category,All Categories,Supplier Summary,Not in Scope,
+Escentual,514,9546,,Escentual Range November 2016,23/11/2016 12:08,27/07/2023 02:57,By Category,All Categories,Supplier Summary,Not in Scope,
+Everywine,70,20233,,TestRetailer - Everywine,29/10/2024 10:35,15/02/2025 21:06,By Category,All Categories,Supplier Summary,Not in Scope,
+Feel Unique,101,20073,,chartest10,02/10/2024 23:26,,By Category,All Categories,Supplier Summary,Not in Scope,
+Food Maestro,606,10691,,BB Prds - No Ing,17/08/2018 16:13,27/07/2023 05:08,By Category,All Categories,Supplier Summary,Not in Scope,
+Food Maestro,606,10692,,3490 No BB Allergy Advice List,23/08/2018 15:05,27/07/2023 05:08,By Category,All Categories,Supplier Summary,Not in Scope,
+Food Maestro,606,11320,,SmartLabel,02/07/2021 15:46,26/07/2023 11:52,By Category,All Categories,Supplier Summary,Not in Scope,
+Food Maestro,606,11941,,Food Maestro Branded Wakefern Range,15/01/2021 16:14,27/07/2023 08:00,By Category,All Categories,Supplier Summary,Not in Scope,
+Fred's,613,10756,,Fred's Range - Matching Exercise,18/09/2018 17:46,27/07/2023 05:27,By Category,All Categories,Supplier Summary,Not in Scope,
+Gaisano Metro - UK,836,12023,,Gaisano Metro - UK,12/02/2021 09:09,27/07/2023 08:52,By Category,All Categories,Supplier Summary,Not in Scope,
+Gander Syndication Test,725,11626,,Gander Syndication Test Range,15/05/2020 11:48,,By Category,All Categories,Supplier Summary,Not in Scope,
+Gander Syndication Test,725,11627,,Gander Syndication Test Range,15/05/2020 11:51,,By Category,All Categories,Supplier Summary,Not in Scope,
+Gander Syndication Test,725,11629,,Gander Syndication Test,12/06/2020 16:18,26/07/2023 15:01,By Category,All Categories,Supplier Summary,Not in Scope,
+Getir,852,12040,,Coverage check,16/02/2021 15:31,27/07/2023 08:54,By Category,All Categories,Supplier Summary,Not in Scope,
+Health Pharm,95,9207,,Health Pharm,28/10/2016 17:41,29/05/2018 09:16,By Category,All Categories,Supplier Summary,Not in Scope,
+Hebe UK,682,11453,,Hebe UK,08/01/2020 10:41,26/07/2023 12:50,By Category,All Categories,Supplier Summary,Not in Scope,
+Hebe UK,682,20400,,hb1,30/10/2025 16:48,14/12/2025 21:07,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+HFSS_ContentExchange,957,12527,,HFSS_ContentExchange_SugarConfectionery,24/02/2022 15:36,25/07/2023 21:57,By Category,All Categories,Supplier Summary,Not in Scope,
+HFSS_ContentExchange,957,12538,,HFSS_ContentExchange_FlavouredDrinks,03/03/2022 15:53,25/07/2023 22:03,By Category,All Categories,Supplier Summary,Not in Scope,
+HFSS_ContentExchange,957,12539,,HFSS_ContentExchange_Juice&DrinksNonCarbonated,03/03/2022 16:17,25/07/2023 22:03,By Category,All Categories,Supplier Summary,Not in Scope,
+HFSS_ContentExchange,957,12540,,HFSS_ContentExchange_Snacks,03/03/2022 16:24,25/07/2023 22:03,By Category,All Categories,Supplier Summary,Not in Scope,
+HFSS_ContentExchange,957,12541,,"HFSS_ContentExchange_Cereals, Fruit & Energy Bars",03/03/2022 16:30,25/07/2023 22:03,By Category,All Categories,Supplier Summary,Not in Scope,
+HFSS_ContentExchange,957,12542,,HFSS_ContentExchange_ChocolateConfectionary,03/03/2022 16:40,25/07/2023 22:03,By Category,All Categories,Supplier Summary,Not in Scope,
+HFSS_ContentExchange,957,12543,,HFSS_ContentExchange_Biscuits,03/03/2022 16:46,25/07/2023 22:03,By Category,All Categories,Supplier Summary,Not in Scope,
+Hider Foods,293,4647,Miscellaneous Ranges (All Locations),Hider Foods,07/01/2015 12:20,27/07/2023 00:07,By Category,All Categories,Supplier Summary,Not in Scope,
+HKTV Mall,730,11670,,HKTV Mall TEST Range,29/05/2020 09:32,26/07/2023 15:31,By Category,All Categories,Supplier Summary,Not in Scope,
+Hyperama Wholesale,106,12384,,Hyperama coverage,10/11/2021 13:13,25/07/2023 18:30,By Category,All Categories,Supplier Summary,Not in Scope,
+Hyperama Wholesale,106,19912,,Test new supp,19/04/2024 17:11,19/04/2024 17:11,By Category,All Categories,Supplier Summary,Not in Scope,
+Iceland,3,2647,"UK Merchandising Reports, UK Live Retail Reports , UK Content Usage Matrix, UK Sales Reports, Order Cycle Times, UK Sales Reports, API Coverage Ranges for UK",Auto XML Range,11/04/2022 20:18,13/02/2025 21:19,By Category,All Categories,Supplier Summary,Not in Scope,
+Iceland,3,8482,UK Merchandising Matrix,XML MERCHANDISING,24/02/2018 10:46,13/02/2025 21:26,By Category,All Categories,Supplier Summary,Not in Scope,
+Iceland,3,10809,ROI Sales Reports,Missing Images Main Range,03/01/2020 10:44,29/10/2024 16:40,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Iceland,3,11491,,Iceland Unmatched Report,14/02/2020 09:13,29/10/2024 16:58,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Iceland,3,12284,UK&IE SF Web & Revisions ranges,Check range,25/11/2021 14:09,29/10/2024 17:21,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Iloilo Supermart - UK,874,12138,,Iloilo Supermart Range - UK,11/05/2021 11:36,25/07/2023 17:08,By Category,All Categories,Supplier Summary,Not in Scope,
+IT retail,960,12566,,IT Retail,16/03/2022 09:25,,By Category,All Categories,Supplier Summary,Not in Scope,
+IT retail,960,12567,,IT Retail,16/03/2022 09:51,25/07/2023 22:07,By Category,All Categories,Supplier Summary,Not in Scope,
+James Hall,424,8889,"UK Live Retail Reports , UK Sales Reports, UK All - Reporting, UK Sales Reports",XML Range,06/12/2021 19:32,27/07/2023 01:58,By Category,All Categories,Supplier Summary,Not in Scope,
+James Hall Wholesale,948,20078,,chartest031024-4,03/10/2024 21:43,29/10/2024 17:39,By Category,All Categories,Supplier Summary,Not in Scope,
+JG TEST,968,20272,,JG TEST BATCH,04/04/2025 16:55,04/04/2025 16:55,By Category,All Categories,Supplier Summary,Not in Scope,
+JG TEST,968,20273,,JG Test Batch 2,04/04/2025 17:05,04/04/2025 17:06,By Category,All Categories,Supplier Summary,Not in Scope,
+JG TEST,968,20274,,JG TEST 3,04/04/2025 17:14,04/04/2025 17:14,By Category,All Categories,Supplier Summary,Not in Scope,
+JG TEST,968,20275,,JG Test 4,04/04/2025 18:13,04/04/2025 18:14,By Category,All Categories,Supplier Summary,Not in Scope,
+JG TEST,968,20276,,JG Test 5,04/04/2025 21:55,04/04/2025 21:55,By Category,All Categories,Supplier Summary,Not in Scope,
+JG TEST,968,20293,,Jim Test,17/06/2025 14:22,17/06/2025 14:23,By Category,All Categories,Supplier Summary,Not in Scope,
+JG TEST,968,20298,,Test Range (jim custom batch config),25/06/2025 15:32,25/06/2025 15:32,By Category,All Categories,Supplier Summary,Not in Scope,
+JG TEST,968,20299,,Jim Test 25/6,25/06/2025 16:02,25/06/2025 16:03,By Category,All Categories,Supplier Summary,Not in Scope,
+JG TEST 2,969,20277,,JG Test 6,04/04/2025 22:24,04/04/2025 22:24,By Category,All Categories,Supplier Summary,Not in Scope,
+Jim Test,974,20301,,My New Test Batch,07/07/2025 09:15,07/07/2025 09:15,By Category,All Categories,Supplier Summary,Not in Scope,
+JM Drogerie i Farmacja,391,11929,,Hebe New XML Range,16/03/2022 20:24,16/12/2025 21:21,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+John Bell & Croyden,75,20238,,TestRetailer - John Bell & Croyden,29/10/2024 10:39,20/02/2025 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Kantar,56,9111,,Library Check,27/06/2016 15:44,27/06/2016 15:45,By Category,All Categories,Supplier Summary,Not in Scope,
+Kirk Market,252,19890,,Kirk Market Range1,03/04/2024 14:43,03/04/2024 14:44,By Category,All Categories,Supplier Summary,Not in Scope,
+Kitwave Wholesale,922,12337,,XML Range,11/04/2022 20:13,25/07/2023 18:14,By Category,All Categories,Supplier Summary,Not in Scope,
+Makro,43,946,"UK Content Matrix, UK Content Usage Matrix",(UK) XML Feed - DO NOT USE,04/08/2021 20:30,26/07/2023 20:08,By Category,All Categories,Supplier Summary,Not in Scope,
+McColls,892,12172,,McColls XML,04/04/2022 19:31,13/02/2025 21:11,By Category,All Categories,Supplier Summary,Not in Scope,
+McKesson,704,11528,,MecKesson - Syndication Range Test,06/03/2020 11:23,,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+McKesson,704,11529,,MecKesson - Syndication Range Test,06/03/2020 11:26,,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+McKesson,704,11530,,MecKesson - Syndication Range Test,06/03/2020 11:42,26/07/2023 13:47,By Category,All Categories,Supplier Summary,Not in Scope,
+Morrisons Supermarkets PLC,60,3270,"UK Merchandising Reports, 1169 Reporting Group, Order Cycle Times, UK XMLs 2021",XML Range (DO NOT USE),11/04/2022 20:00,13/02/2025 21:21,By Category,All Categories,Supplier Summary,Not in Scope,
+Morrisons Supermarkets PLC,60,10772,UK & IE Sales Reports Salesforce Chasing,Morrisons Main Range Hidden,18/03/2022 18:01,13/02/2025 21:29,By Category,All Categories,Supplier Summary,Not in Scope,
+Morrisons Supermarkets PLC,60,11022,"UK & IE Sales Reports, ROI Sales Reports, UK & IE Sales Reports Salesforce Chasing, Nikoli P UK Salesforce Ranges, UK&IE SF Web & Revisions ranges",Morrisons Chase Range,10/02/2022 15:33,29/10/2024 16:46,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Morrisons Supermarkets PLC,60,11687,Salesforce Test Ranges -TEST Only,Morrisons Salesforce Test - DO NOT USE,09/06/2020 16:25,29/10/2024 17:06,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Morrisons Supermarkets PLC,60,12200,UK&IE SF CGI ranges,Morrisons CGI Range,10/02/2022 15:24,13/02/2025 21:11,By Category,All Categories,Supplier Summary,Not in Scope,
+Morrisons Supermarkets PLC,60,12368,UK&IE SF Web & Revisions ranges,Morrisons Redesign Range,09/11/2021 16:24,29/10/2024 17:23,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Morrisons Supermarkets PLC,60,12386,UK&IE SF CGI ranges,Morrisons CGI Redesign Range,10/11/2021 15:33,29/10/2024 17:23,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Morrisons Supermarkets PLC,60,12593,,Market Street Check,07/04/2022 07:52,29/10/2024 17:32,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Morrisons Supermarkets PLC,60,15632,,Data17,06/09/2023 21:00,29/10/2024 17:32,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Morrisons Supermarkets PLC,60,15633,,New Test Data1,30/07/2025 16:59,27/10/2025 21:19,By Category,All Categories,Supplier Summary,Not in Scope,
+Morrisons Supermarkets PLC,60,18647,,New Test Data1,12/05/2023 20:38,25/07/2023 22:22,By Category,All Categories,Supplier Summary,Not in Scope,
+Morrisons Supermarkets PLC,60,18648,,New Test Data1,28/05/2024 18:29,20/08/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Morrisons Supermarkets PLC,60,19662,,Test154,17/07/2023 18:52,25/07/2023 22:36,By Category,All Categories,Supplier Summary,Not in Scope,
+Morrisons Supermarkets PLC,60,19663,,RETR154-Import2,29/09/2023 23:11,29/10/2024 17:33,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Musgrave Marketplace Additiona,748,11757,,Musgrave Marketplace Feed DO NOT USE,11/04/2022 20:11,26/07/2023 16:17,By Category,All Categories,Supplier Summary,Not in Scope,
+Musgrave Marketplace Additiona,748,12063,,IE Coverage Check,28/07/2021 10:59,29/10/2024 17:14,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+My Import Test Company,994,20403,,My First Range Import,11/11/2025 14:55,11/11/2025 14:55,By Category,All Categories,Supplier Summary,Not in Scope,
+My New Test Retailer,993,20401,,My Test Range,10/11/2025 11:22,01/12/2025 21:26,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+My New Test Retailer,993,20402,,Test Sains,10/11/2025 11:25,10/11/2025 11:26,By Category,All Categories,Supplier Summary,Not in Scope,
+MySupermarket,78,1410,Miscellaneous Ranges (All Locations),Range Check - DO NOT USE,17/06/2025 02:22,17/06/2025 02:23,By Category,All Categories,Supplier Summary,Not in Scope,
+NearStreet - Syndication,865,12094,,NearStreet - Syndication (Test Range),08/04/2021 13:24,25/07/2023 16:33,By Category,All Categories,Supplier Summary,Not in Scope,
+Nisa Retail Ltd,45,995,"UK Content Usage Matrix, UK Sales Reports, Order Cycle Times, UK Sales Reports",XML Feed - DO NOT USE,07/04/2022 19:38,13/02/2025 21:17,By Category,All Categories,Supplier Summary,Not in Scope,
+Nisa Retail Ltd,45,15617,,NisaData5,03/05/2023 21:18,25/07/2023 22:20,By Category,All Categories,Supplier Summary,Not in Scope,
+Nisa Retail Ltd,45,15618,,NisaData6,03/05/2023 21:23,25/07/2023 22:20,By Category,All Categories,Supplier Summary,Not in Scope,
+Nisa Retail Ltd,45,20215,,Nisa Retail Range1,29/10/2024 02:21,07/11/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+NOOM,669,11401,,Syndication Coverage Check,20/11/2019 14:17,26/07/2023 12:24,By Category,All Categories,Supplier Summary,Not in Scope,
+Norris Family Grocers,856,12053,,coverage check range,26/02/2021 11:33,27/07/2023 08:56,By Category,All Categories,Supplier Summary,Not in Scope,
+Ocado New Lines,12,15621,UK&IE SF Web & Revisions ranges,Data9,04/05/2023 18:09,25/07/2023 22:21,By Category,All Categories,Supplier Summary,Not in Scope,
+Ocado New Lines,12,15622,UK&IE SF Web & Revisions ranges,Data10,04/05/2023 18:30,25/07/2023 22:21,By Category,All Categories,Supplier Summary,Not in Scope,
+Ocado New Lines,12,15626,UK&IE SF Web & Revisions ranges,Data11,05/05/2023 11:01,25/07/2023 22:21,By Category,All Categories,Supplier Summary,Not in Scope,
+Ocado New Lines,12,15627,,Data12,05/05/2023 12:39,25/07/2023 22:21,By Category,All Categories,Supplier Summary,Not in Scope,
+Ocado New Lines,12,15628,,Data13,05/05/2023 12:56,25/07/2023 22:21,By Category,All Categories,Supplier Summary,Not in Scope,
+Ocado New Lines,12,15629,,Data14,05/05/2023 13:08,25/07/2023 22:21,By Category,All Categories,Supplier Summary,Not in Scope,
+Ocado Retail Ltd,5,486,"Retail View, UK Content Usage Matrix, Order Cycle Times, API Coverage Ranges for UK, UK XMLs 2021",All Data XML Feed DO NOT USE,19/04/2023 21:32,13/02/2025 21:14,By Category,All Categories,Supplier Summary,Not in Scope,
+Ocado Retail Ltd,5,10827,"UK & IE Sales Reports, ROI Sales Reports, UK & IE Sales Reports Salesforce Chasing, Nikoli P UK Salesforce Ranges, UK&IE SF Web & Revisions ranges",New lines / Missing Image,17/01/2022 16:09,13/02/2025 21:29,By Category,All Categories,Supplier Summary,Not in Scope,
+Ocado Retail Ltd,5,19780,,Ocado-SupplierMatch1,28/11/2023 13:47,29/10/2024 17:37,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Ocado Retail Ltd,5,20058,,98chartest,24/10/2024 21:14,24/10/2024 21:14,By Category,All Categories,Supplier Summary,Not in Scope,
+Ocado Retail Ltd,5,20059,,100chartest,02/10/2024 20:01,,By Category,All Categories,Supplier Summary,Not in Scope,
+Ocado Retail Ltd,5,20174,,RETR336DemoTest3,28/10/2024 18:53,20/01/2025 21:14,By Category,All Categories,Supplier Summary,Not in Scope,
+Ocado Retail Ltd,5,20176,,RETR336DemoTest6,28/10/2024 19:22,22/01/2025 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+OGAV,850,12036,,Coverage check,12/02/2021 14:25,27/07/2023 08:53,By Category,All Categories,Supplier Summary,Not in Scope,
+PepsiCo,851,19967,,TestRange010,30/08/2024 23:22,29/10/2024 17:39,By Category,All Categories,Supplier Summary,Not in Scope,
+Pernod Ricard UK,548,19898,,Pernod Ricard UK Range 1,04/04/2024 15:42,04/04/2024 15:42,By Category,All Categories,Supplier Summary,Not in Scope,
+Pointy,438,8913,,Pointy,17/05/2016 15:59,,By Category,All Categories,Supplier Summary,Not in Scope,
+Pointy,438,19900,,Pointy Rage,04/04/2024 19:34,04/04/2024 19:35,By Category,All Categories,Supplier Summary,Not in Scope,
+Pointy ATM,439,8916,,Pointy ATM,18/05/2016 14:49,,By Category,All Categories,Supplier Summary,Not in Scope,
+Pointy ATM,439,8917,,Pointy ATM,18/05/2016 14:57,,By Category,All Categories,Supplier Summary,Not in Scope,
+Poundland,368,12049,,Coverage check,22/02/2021 16:13,27/07/2023 08:55,By Category,All Categories,Supplier Summary,Not in Scope,
+Poundshop,854,12048,,Coverage check,22/02/2021 16:09,,By Category,All Categories,Supplier Summary,Not in Scope,
+Poundworld,251,4259,Miscellaneous Ranges (All Locations),Poundworld Retail XML Range,16/11/2018 20:01,26/07/2023 23:08,By Category,All Categories,Supplier Summary,Not in Scope,
+Poundworld,251,20246,,TestRetailer - Poundworld,29/10/2024 10:46,28/02/2025 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Primavera,887,12155,,Eurocash,13/05/2021 12:57,25/07/2023 17:10,By Category,All Categories,Supplier Summary,Not in Scope,
+Ramsden Int.,17,19894,,All Data XML Feed - DO NOT USE,04/04/2024 15:15,04/04/2024 15:15,By Category,All Categories,Supplier Summary,Not in Scope,
+Redmart,934,12387,,Redmart Coverage UK,17/11/2023 18:50,17/11/2023 18:51,By Category,All Categories,Supplier Summary,Not in Scope,
+Redmart,934,12390,,Redmart Coverage US,21/11/2023 20:01,21/11/2023 20:02,By Category,All Categories,Supplier Summary,Not in Scope,
+Redmart,934,19905,,Test range,16/05/2024 19:11,10/07/2024 21:06,By Category,All Categories,Supplier Summary,Not in Scope,
+Redmart,934,19956,,testrange9902,27/05/2024 22:06,27/05/2024 22:06,By Category,All Categories,Supplier Summary,Not in Scope,
+Robinsons Supermarket,939,12409,,Robinsons Supermarket coverage UK,01/12/2021 15:46,25/07/2023 19:53,By Category,All Categories,Supplier Summary,Not in Scope,
+Robinsons Supermarket,939,12419,,Robinsons Supermarket coverage US,08/12/2021 16:58,25/07/2023 20:10,By Category,All Categories,Supplier Summary,Not in Scope,
+Rowlands,47,19947,,Rowlands,23/05/2024 22:08,19/08/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Sainsburys,1,2611,"Ed Test - Do not change, 1169 Reporting Group, UK Sales Reports, Order Cycle Times, UK Sales Reports, UK XMLs 2021",H12 New Feed,11/04/2022 20:18,08/05/2025 12:36,By Category,All Categories,Supplier Summary,Not in Scope,
+Sainsburys,1,10635,"UK & IE Sales Reports, ROI Sales Reports, UK & IE Sales Reports Salesforce Chasing, Nikoli P UK Salesforce Ranges, UK&IE SF Web & Revisions ranges",Missing Images Main Range,22/03/2022 15:10,29/10/2024 16:40,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,11688,Salesforce Test Ranges -TEST Only,Sainsburys Salesforce Test - DO NOT USE,09/06/2020 16:28,29/10/2024 17:06,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,12293,,Autumn 2021,12/10/2021 15:29,29/10/2024 17:21,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,12329,,Xmas 2021,01/10/2021 14:06,29/10/2024 17:22,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,12517,UK&IE SF Web & Revisions ranges,World Foods & ITC Range 2022,09/03/2022 09:41,29/10/2024 17:30,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,12537,UK&IE SF Web & Revisions ranges,April Frozen MSR Range,03/03/2022 14:57,29/10/2024 17:30,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,12575,UK&IE SF Web & Revisions ranges,Summer 2022 Range,05/04/2022 16:26,25/07/2023 22:07,By Category,All Categories,Supplier Summary,Not in Scope,
+Sainsburys,1,12584,,Summer MAD Revisions Range,29/03/2022 17:08,29/10/2024 17:32,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,12605,,Test Harvest 01,20/04/2023 20:59,29/10/2024 17:32,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19760,,Match1and2-3,03/03/2025 15:05,03/03/2025 15:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Sainsburys,1,19761,,Match1and2-4,23/11/2023 21:47,29/10/2024 17:36,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19795,,TestRange4,03/01/2024 19:19,29/10/2024 17:37,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19796,,RangeTest5,03/01/2024 19:28,29/10/2024 17:37,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19797,,RangeTest6,03/01/2024 20:01,29/10/2024 17:37,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19798,,RangeTest7,14/03/2024 17:15,29/10/2024 17:37,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19799,,RangeTest8,03/01/2024 20:13,29/10/2024 17:37,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19800,,RangeTest9,25/09/2024 19:18,29/10/2024 17:37,By Category,All Categories,Supplier Summary,Not in Scope,
+Sainsburys,1,19801,,RangeTest10,03/01/2024 20:33,29/10/2024 17:37,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19802,,RangeTest11,03/01/2024 20:40,29/10/2024 17:37,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19803,,RangeTest12,03/01/2024 20:43,29/10/2024 17:37,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19804,,RangeDateTestOld1,03/01/2024 21:00,29/10/2024 17:37,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19805,,RangeDateTestOld2,03/01/2024 21:08,29/10/2024 17:37,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19806,,RangeOnlineDataTest01,03/01/2024 21:18,29/10/2024 17:38,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19807,,RangeOnlineDataTest02,03/01/2024 21:21,29/10/2024 17:38,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19825,,dave test,16/01/2024 16:22,29/10/2024 17:38,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19827,,dave test,16/01/2024 16:47,29/10/2024 17:38,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19828,,dave test,16/01/2024 17:05,29/10/2024 17:38,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19829,,dave test,16/01/2024 17:16,29/10/2024 17:38,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19830,,dave test,16/01/2024 19:07,29/10/2024 17:38,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19831,,dave test,16/01/2024 19:16,29/10/2024 17:38,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19832,,test range,16/01/2024 19:36,29/10/2024 17:38,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19833,,test,16/01/2024 19:41,29/10/2024 17:38,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19834,,test,16/01/2024 19:47,29/10/2024 17:38,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19835,,test,16/01/2024 20:22,29/10/2024 17:38,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19836,,test,16/01/2024 20:33,29/10/2024 17:38,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19837,,test,16/01/2024 20:44,29/10/2024 17:38,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19838,,test,16/01/2024 20:46,29/10/2024 17:38,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19839,,test dave,16/01/2024 21:14,29/10/2024 17:38,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19840,,test,16/01/2024 21:23,29/10/2024 17:38,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19841,,test,16/01/2024 21:26,29/10/2024 17:38,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19842,,test,16/01/2024 21:32,29/10/2024 17:38,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19843,,test,16/01/2024 21:46,29/10/2024 17:38,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19844,,test,08/03/2024 22:03,29/10/2024 17:38,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19845,,dave test,16/01/2024 21:57,29/10/2024 17:38,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19846,,dave test,16/01/2024 22:00,29/10/2024 17:38,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19847,,test,17/01/2024 16:23,29/10/2024 17:38,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19848,,dave test,04/04/2024 15:21,04/04/2024 15:21,By Category,All Categories,Supplier Summary,Not in Scope,
+Sainsburys,1,19849,,test range,17/01/2024 16:59,29/10/2024 17:38,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19850,,test range,17/01/2024 17:11,29/10/2024 17:38,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19852,,dave test,17/01/2024 20:39,29/10/2024 17:38,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19853,,dave test,17/01/2024 20:42,30/09/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Sainsburys,1,19854,,dave test,17/01/2024 20:48,30/09/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Sainsburys,1,19855,Test COMSC-645,dave test,08/07/2024 20:19,30/09/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Sainsburys,1,19856,Test COMSC-645,dave test,18/01/2024 20:56,29/10/2024 17:38,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19857,,dave test,07/02/2024 18:04,,By Category,All Categories,Supplier Summary,Not in Scope,
+Sainsburys,1,19858,,test dave,07/02/2024 18:09,,By Category,All Categories,Supplier Summary,Not in Scope,
+Sainsburys,1,19872,,dave test,06/03/2024 21:01,29/10/2024 17:38,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sainsburys,1,19926,,Dave Range,21/05/2024 16:54,13/08/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Sainsburys,1,19936,,davetestissue4,22/05/2024 17:22,18/08/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Sainsburys,1,19937,,davetestissue4-2,22/05/2024 18:51,09/12/2024 09:47,By Category,All Categories,Supplier Summary,Not in Scope,
+Sainsburys,1,19944,,daveHiddenRange,23/05/2024 19:59,23/05/2024 19:59,By Category,All Categories,Supplier Summary,Not in Scope,
+Sainsburys,1,19945,,davetestexpiry2,23/05/2024 21:47,23/05/2024 21:47,By Category,All Categories,Supplier Summary,Not in Scope,
+Sainsburys,1,19946,,davetestexpiry3,23/05/2024 21:50,20/08/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Sainsburys,1,19952,,davetest0527,05/07/2024 16:44,02/10/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Sainsburys,1,19954,,davetest05272,27/05/2024 20:38,27/05/2024 20:38,By Category,All Categories,Supplier Summary,Not in Scope,
+Sainsburys,1,19989,,davetest0618,18/06/2024 17:00,30/06/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Sainsburys,1,20017,,Retest First Test S.No1,28/06/2024 14:26,30/06/2024 21:06,By Category,All Categories,Supplier Summary,Not in Scope,
+Sainsburys,1,20028,,davetest07052,05/07/2024 21:20,02/10/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Sainsburys,1,20173,,RETR336DemoTest2,28/10/2024 18:40,29/10/2024 17:41,By Category,All Categories,Supplier Summary,Not in Scope,
+Sainsburys,1,20180,,TestRetailer1,28/10/2024 21:34,29/10/2024 17:41,By Category,All Categories,Supplier Summary,Not in Scope,
+Sainsburys,1,20258,,SaintTest-2802-1,28/02/2025 14:22,,By Category,All Categories,Supplier Summary,Not in Scope,
+Sainsburys,1,20259,,Sainsburys-2802-1,28/02/2025 14:50,,By Category,All Categories,Supplier Summary,Not in Scope,
+Sainsburys,1,20260,,DevSaintTest-1,28/02/2025 17:32,,By Category,All Categories,Supplier Summary,Not in Scope,
+Sainsburys,1,20261,,DevSaintTest-1,28/02/2025 17:35,,By Category,All Categories,Supplier Summary,Not in Scope,
+Sainsburys,1,20262,,DevSaintTest-1,28/02/2025 18:02,23/05/2025 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Sainsburys,1,20263,,SainsburysTest03031-LD2,03/03/2025 14:24,31/05/2025 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Sainsburys,1,20264,,SainsburysTest03031-LD3,03/03/2025 14:29,31/05/2025 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Sainsburys,1,20265,,SainsburysTest03031-LD1,03/03/2025 14:40,31/05/2025 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Sainsburys,1,20266,,SainsburysTest03031-LD4,03/03/2025 14:47,31/05/2025 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Sainsburys Merchandising,91,8628,"UK Sales Reports, UK Merchandising Matrix, UK All - Reporting",Merchandising Projects,13/12/2017 22:15,27/07/2023 01:00,By Category,All Categories,Supplier Summary,Not in Scope,
+Sainsburys Merchandising,91,10850,,Merchandising Coverage,19/11/2018 14:47,,By Category,All Categories,Supplier Summary,Not in Scope,
+Sainsburys Merchandising,91,19903,,Sainsburys Merchandising Range 1,05/04/2024 16:46,10/07/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Salesforce Test Account,975,20391,,Range30103,30/10/2025 13:51,31/10/2025 21:05,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Sanderson,96,1703,"UK Live Retail Reports , UK Content Usage Matrix",XML Range - DO NOT USE,11/04/2022 20:03,13/02/2025 21:17,By Category,All Categories,Supplier Summary,Not in Scope,
+Savage & Whitten,918,12314,,XML Range,11/04/2022 20:13,13/02/2025 21:12,By Category,All Categories,Supplier Summary,Not in Scope,
+Savage & Whitten,918,20156,,SavageTest1,25/10/2024 17:43,,By Category,All Categories,Supplier Summary,Not in Scope,
+Savage & Whitten,918,20157,,SavageTest1,25/10/2024 17:51,25/10/2024 17:51,By Category,All Categories,Supplier Summary,Not in Scope,
+Savage & Whitten,918,20158,,SavageTest3,25/10/2024 18:35,25/10/2024 18:36,By Category,All Categories,Supplier Summary,Not in Scope,
+Savage & Whitten,918,20159,,TestSavage5,25/10/2024 18:44,25/10/2024 18:44,By Category,All Categories,Supplier Summary,Not in Scope,
+Selfridges,909,12250,,Selfridges Coverage Check,04/08/2021 12:35,25/07/2023 17:49,By Category,All Categories,Supplier Summary,Not in Scope,
+Smylie Ltd,639,11154,,XML Range (SYND),07/06/2019 12:03,26/07/2023 11:28,By Category,All Categories,Supplier Summary,Not in Scope,
+Snappy Shopper,926,12352,,XML Range,11/04/2022 20:13,25/07/2023 18:23,By Category,All Categories,Supplier Summary,Not in Scope,
+SPAR UK,715,11596,,SPAR UK JSON Feed Do Not Touch,08/04/2022 19:26,13/02/2025 21:32,By Category,All Categories,Supplier Summary,Not in Scope,
+Spinneys,665,11367,,Spinneys UAE Full Range,22/10/2019 16:42,26/07/2023 12:21,By Category,All Categories,Supplier Summary,Not in Scope,
+Streetbees Ltd - Syndication,908,12241,,Streetbees Ltd - Syndication (Test Range),22/07/2021 16:09,25/07/2023 17:48,By Category,All Categories,Supplier Summary,Not in Scope,
+Sugro Webservice,571,10327,,XML Range DEV,14/08/2020 20:14,19/05/2022 10:28,By Category,All Categories,Supplier Summary,Not in Scope,
+Sugro Webservice,571,15631,,Data16,05/05/2023 13:33,25/07/2023 22:21,By Category,All Categories,Supplier Summary,Not in Scope,
+Superdrug,22,392,"Retail View, UK Content Matrix, UK Content Usage Matrix, UK Sales Reports",Online Range,28/06/2024 15:18,24/01/2025 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Superdrug,22,10637,,Missing Images Main Range,06/07/2020 10:52,29/10/2024 16:40,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Superdrug,22,12240,UK&IE SF Merch ranges,Superdrug Merchandising,22/07/2021 10:45,29/10/2024 17:20,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Superdrug,22,12262,,Merchandising Check,11/08/2021 16:17,29/10/2024 17:21,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Superdrug,22,19918,,Superdrug Range 1,09/10/2024 16:52,09/10/2024 16:52,By Category,All Categories,Supplier Summary,Not in Scope,
+Sutherland Bros,169,3313,"Miscellaneous Ranges (All Locations), UK Sales Reports",LIVE Auto XML Range,04/01/2019 09:24,16/05/2022 14:44,By Category,All Categories,Supplier Summary,Not in Scope,
+Sutherland Bros,169,8982,,Main Range - Chase Range,29/03/2017 13:36,27/07/2023 02:01,By Category,All Categories,Supplier Summary,Not in Scope,
+Syndication Coverage Check,629,11361,,PointFour - Coverage Check,16/10/2019 18:22,26/07/2023 12:19,By Category,All Categories,Supplier Summary,Not in Scope,
+Syndication Coverage Check,629,11412,,Waste Items Coverage Check,04/12/2019 13:52,26/07/2023 12:39,By Category,All Categories,Supplier Summary,Not in Scope,
+Syndication Coverage Check,629,11617,,JISP Matching,07/05/2020 12:07,26/07/2023 14:47,By Category,All Categories,Supplier Summary,Not in Scope,
+Syndication Coverage Check,629,11660,,Villa Market,28/05/2020 09:54,26/07/2023 15:23,By Category,All Categories,Supplier Summary,Not in Scope,
+Syndication Coverage Check,629,11661,,Villa Market (NL Match),28/05/2020 10:25,26/07/2023 15:29,By Category,All Categories,Supplier Summary,Not in Scope,
+Syndication Coverage Check,629,11662,,Villa Market (Belgium),28/05/2020 10:57,26/07/2023 15:29,By Category,All Categories,Supplier Summary,Not in Scope,
+Syndication Coverage Check,629,11663,,Villa Market (Poland),28/05/2020 11:17,26/07/2023 15:30,By Category,All Categories,Supplier Summary,Not in Scope,
+Syndication Coverage Check,629,11664,,Villa Market (Thailand),28/05/2020 11:42,26/07/2023 15:30,By Category,All Categories,Supplier Summary,Not in Scope,
+Syndication Coverage Check,629,11665,,Villa Market (Malaysia),28/05/2020 12:00,26/07/2023 15:30,By Category,All Categories,Supplier Summary,Not in Scope,
+Syndication Coverage Check,629,11666,,Villa Market (Denmark),28/05/2020 12:20,26/07/2023 15:30,By Category,All Categories,Supplier Summary,Not in Scope,
+Syndication Coverage Check,629,11667,,Villa Market (Hungary),28/05/2020 12:38,26/07/2023 15:30,By Category,All Categories,Supplier Summary,Not in Scope,
+Syndication Coverage Check,629,11671,,Villa Market (Czech Republic),29/05/2020 09:57,26/07/2023 15:31,By Category,All Categories,Supplier Summary,Not in Scope,
+Syndication Coverage Check,629,11672,,Villa Market (Slovakia),29/05/2020 10:23,26/07/2023 15:31,By Category,All Categories,Supplier Summary,Not in Scope,
+Tesco,2,3884,"UK Live Retail Reports , Poland Matrix, Ed Test - Do not change, Tesco 1169 Compliance Matrix, UK Sales Reports, UK All - Reporting, UK XMLs 2021",Tesco GHS Full Range Online,15/03/2022 11:57,13/02/2025 21:22,By Category,All Categories,Supplier Summary,Not in Scope,
+Tesco,2,8496,,Tesco Image Swaps - DO NOT DELETE,31/08/2018 16:22,13/02/2025 21:26,By Category,All Categories,Supplier Summary,Not in Scope,
+Tesco,2,10219,"UK & IE Sales Reports, ROI Sales Reports, Order Cycle Times, UK Sales Reports, UK & IE Sales Reports Salesforce Chasing, Nikoli P UK Salesforce Ranges, UK&IE SF Web & Revisions ranges",Tesco Missing Images,05/04/2022 14:04,13/02/2025 21:29,By Category,All Categories,Supplier Summary,Not in Scope,
+Tesco,2,10419,,Missing Images Check,04/04/2022 15:53,29/10/2024 16:39,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Tesco,2,11108,"UK & IE Sales Reports, UK All - Reporting",ROI GHS Range,12/03/2024 18:19,13/02/2025 21:31,By Category,All Categories,Supplier Summary,Not in Scope,
+Tesco,2,11547,"UK & IE Sales Reports, UK & IE Sales Reports Salesforce Chasing, Nikoli P UK Salesforce Ranges",Confirmed Live Tesco Lines,21/01/2022 13:20,29/10/2024 17:04,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Tesco,2,11681,Salesforce Test Ranges -TEST Only,Tesco Salesforce Test - DO NOT USE,08/06/2020 16:46,13/02/2025 21:32,By Category,All Categories,Supplier Summary,Not in Scope,
+Tesco,2,12014,"UK & IE Sales Reports, Nikoli P UK Salesforce Ranges, UK&IE SF Web & Revisions ranges",Tesco NPD API Data,01/04/2022 14:15,13/02/2025 21:07,By Category,All Categories,Supplier Summary,Not in Scope,
+Tesco,2,12242,,Tesco MOI project,28/07/2021 09:39,29/10/2024 17:20,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Tesco,2,12248,UK&IE SF Web & Revisions ranges,Tesco Redesign range,05/11/2021 14:34,29/10/2024 17:20,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Tesco,2,12406,UK&IE SF Web & Revisions ranges,Data Capture Range,25/11/2021 16:52,29/10/2024 17:23,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Tesco,2,12415,,Ben check range web matched,09/03/2022 10:33,29/10/2024 17:23,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Tesco,2,12468,UK&IE SF Web & Revisions ranges,Easter Bakery,19/01/2022 15:44,29/10/2024 17:27,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Tesco,2,12602,,Tesco Test 02,19/04/2023 20:47,25/07/2023 22:11,By Category,All Categories,Supplier Summary,Not in Scope,
+Tesco,2,12603,,Tesco Test 03,23/11/2023 16:41,29/10/2024 17:32,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Tesco,2,12604,Test14092023 - 1,Tesco Test 04,17/05/2023 17:49,25/07/2023 22:12,By Category,All Categories,Supplier Summary,Not in Scope,
+Tesco,2,15624,,Tesco suppliername test,04/05/2023 20:17,,By Category,All Categories,Supplier Summary,Not in Scope,
+Tesco,2,15625,,Tesco Range 01,23/11/2023 18:37,29/10/2024 17:32,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Tesco,2,19666,Test14092023 - 1,TestRangeNew001,02/10/2023 20:02,29/10/2024 17:34,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Tesco,2,19667,,TestRangeNew001,30/08/2024 23:11,29/10/2024 17:34,By Category,All Categories,Supplier Summary,Not in Scope,
+Tesco,2,19669,,Online Range,11/10/2023 19:10,29/10/2024 17:34,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Tesco,2,19684,,Test Range 02,06/10/2023 14:58,29/10/2024 17:34,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Tesco,2,19736,,RETR129-1,30/10/2023 15:20,29/10/2024 17:36,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Tesco,2,19766,,RID-2711131,27/11/2023 13:12,29/10/2024 17:36,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Tesco,2,19767,,RID-2711132,27/11/2023 13:21,29/10/2024 17:36,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Tesco,2,19768,,RID-2711133,27/11/2023 13:30,29/10/2024 17:36,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Tesco,2,19769,,RID-2711134,27/11/2023 13:34,29/10/2024 17:36,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Tesco,2,19777,,Tesco-SupplierMatch1,28/11/2023 13:25,29/10/2024 17:37,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Tesco,2,19928,,Tesco Test range 1100,17/05/2024 14:59,28/07/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Tesco,2,19930,,Josh Test Range 1,22/05/2024 14:39,19/08/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Tesco,2,19931,,Josh Test Range 2,22/05/2024 14:55,13/08/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Tesco,2,19932,,Josh Test Range 3,22/05/2024 15:26,14/08/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Tesco,2,19933,,Josh Test Range 4,22/05/2024 16:04,15/08/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Tesco,2,19934,,Josh Test Range 5,22/05/2024 16:12,16/08/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Tesco,2,19935,,Josh Test Range 6,22/05/2024 16:43,17/08/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Tesco,2,19941,,Josh Test Range 7,22/05/2024 21:20,22/05/2024 21:20,By Category,All Categories,Supplier Summary,Not in Scope,
+Tesco,2,19942,,Josh Test Range 8,23/05/2024 15:57,23/05/2024 15:58,By Category,All Categories,Supplier Summary,Not in Scope,
+Tesco,2,19996,,JoshTest-Issue5-1,20/06/2024 17:21,04/07/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Tesco,2,20049,,tes rd002,25/09/2024 17:10,29/10/2024 17:39,By Category,All Categories,Supplier Summary,Not in Scope,
+Tesco,2,20181,,TestRetailer2,28/10/2024 22:11,20/01/2025 21:14,By Category,All Categories,Supplier Summary,Not in Scope,
+Tesco,2,20282,,RF - test batch for RETR375,16/05/2025 16:03,12/03/2025 23:51,By Category,All Categories,Supplier Summary,Not in Scope,
+Tesco (UK & IE),638,11149,"ROI Sales Reports, UK & IE Sales Reports Salesforce Chasing, UK&IE SF Web & Revisions ranges",ROI Missing images,29/03/2022 15:54,13/02/2025 21:31,By Category,All Categories,Supplier Summary,Not in Scope,
+Tesco (UK & IE),638,11575,,ROI missing images check,21/11/2023 14:29,13/02/2025 21:31,By Category,All Categories,Supplier Summary,Not in Scope,
+Tesco (UK & IE),638,19687,,testrangeretr106,05/10/2023 21:14,29/10/2024 17:34,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Tesco (UK & IE),638,19782,,JackData1,08/12/2023 20:53,29/10/2024 17:37,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Tesco (UK & IE),638,19783,,PinkTest1,08/12/2023 21:36,29/10/2024 17:37,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Tesco (UK & IE),638,19784,Test regression new,Test,08/12/2023 21:43,29/10/2024 17:37,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Tesco (UK & IE),638,20091,,Tesco1,09/10/2024 16:59,,By Category,All Categories,Supplier Summary,Not in Scope,
+Tesco (UK & IE),638,20092,,TestImport101020241,10/10/2024 14:19,,By Category,All Categories,Supplier Summary,Not in Scope,
+Tesco (UK & IE),638,20093,,TestImport101020242,10/10/2024 14:27,,By Category,All Categories,Supplier Summary,Not in Scope,
+Tesco (UK & IE),638,20097,,TestImport101020243,10/10/2024 15:10,04/01/2025 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Tesco Exchange,110,20003,COMSC-677 -7,RangeSal21064,08/07/2024 21:07,19/07/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Tesco Merchandising,80,8627,"UK & IE Sales Reports, ROI Sales Reports, UK Sales Reports, UK Merchandising Matrix, UK All - Reporting, UK Sales Reports",Merchandising Projects,16/12/2025 22:15,13/02/2025 21:26,By Category,All Categories,Supplier Summary,Not in Scope,
+Tesco Merchandising,80,11390,"UK & IE Sales Reports, ROI Sales Reports, UK&IE SF Merch ranges",Tesco EPD Merchandising Project,25/11/2024 19:53,13/02/2025 21:14,By Category,All Categories,Supplier Summary,Not in Scope,
+Tesco Merchandising,80,11586,,Merchandising - Master Range,01/04/2022 14:09,13/02/2025 21:32,By Category,All Categories,Supplier Summary,Not in Scope,
+Tesco Merchandising,80,12413,,Ben Check Range,09/03/2022 10:37,10/02/2025 21:20,By Category,All Categories,Supplier Summary,Not in Scope,
+Tesco Wines,8,19904,,tesco wines test hidden 01,09/04/2024 19:11,09/04/2024 19:11,By Category,All Categories,Supplier Summary,Not in Scope,
+Test Account,986,20390,,Range31102,30/10/2025 13:06,14/12/2025 21:07,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Test Account,986,20392,,Range30105,30/10/2025 13:53,16/12/2025 21:21,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Test Account,986,20393,,rande30106,30/10/2025 14:12,14/12/2025 21:07,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Test Account,986,20394,,range30107,30/10/2025 14:16,30/10/2025 14:17,By Category,All Categories,Supplier Summary,Not in Scope,
+Test Mercy,970,20283,,Test Retr 363,26/05/2025 21:56,,By Category,All Categories,Supplier Summary,Not in Scope,
+Test Mercy,970,20284,,Test Retr 363,26/05/2025 21:59,26/05/2025 21:59,By Category,All Categories,Supplier Summary,Not in Scope,
+Test Mercy,970,20285,,tes retr,27/05/2025 17:10,27/05/2025 17:16,By Category,All Categories,Supplier Summary,Not in Scope,
+Test Mercy,970,20286,,test retr 363,29/05/2025 14:29,29/05/2025 14:38,By Category,All Categories,Supplier Summary,Not in Scope,
+Test Mercy,970,20287,,500k no supplier name,29/05/2025 20:41,29/05/2025 20:44,By Category,All Categories,Supplier Summary,Not in Scope,
+Test Mercy,970,20288,,Blank Supplier name 500k,30/05/2025 03:29,30/05/2025 03:33,By Category,All Categories,Supplier Summary,Not in Scope,
+Test Mercy,970,20289,,data extension blank 500k,30/05/2025 05:19,30/05/2025 05:24,By Category,All Categories,Supplier Summary,Not in Scope,
+Test Mercy,970,20290,,Incorrect Eans,30/05/2025 17:35,30/05/2025 17:41,By Category,All Categories,Supplier Summary,Not in Scope,
+Test Mercy,970,20291,,Wrong EANs,30/05/2025 18:51,30/05/2025 18:59,By Category,All Categories,Supplier Summary,Not in Scope,
+Test Mercy,970,20292,,No Data extension,03/06/2025 17:53,03/06/2025 17:57,By Category,All Categories,Supplier Summary,Not in Scope,
+Test Mercy,970,20294,,Only Mandatory,06/06/2025 06:30,06/06/2025 06:35,By Category,All Categories,Supplier Summary,Not in Scope,
+Test Mercy,970,20295,,Non live batch - mandatory,06/06/2025 15:36,06/06/2025 15:40,By Category,All Categories,Supplier Summary,Not in Scope,
+Test Mercy,970,20296,,Test Import 500k,10/06/2025 04:37,10/06/2025 04:44,By Category,All Categories,Supplier Summary,Not in Scope,
+Test Mercy,970,20297,,RETR-360,20/06/2025 16:59,20/06/2025 16:59,By Category,All Categories,Supplier Summary,Not in Scope,
+Test Mercy,970,20302,,Regression test bulk,08/07/2025 04:46,08/07/2025 04:51,By Category,All Categories,Supplier Summary,Not in Scope,
+test2020,685,19664,,Full Range,31/08/2023 13:48,07/09/2023 21:07,By Category,All Categories,Supplier Summary,Not in Scope,
+test2020,685,19859,,dave test,12/02/2024 16:54,,By Category,All Categories,Supplier Summary,Not in Scope,
+test2020,685,19860,,test,12/02/2024 17:21,29/10/2024 17:38,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+test2020,685,19861,,test,12/02/2024 20:23,29/10/2024 17:38,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestCompanyForRetailerReportIm,991,20370,,Test01091,01/09/2025 14:32,29/11/2025 21:06,By Category,All Categories,Supplier Summary,Not in Scope,
+TestCompanyForRetailerReportIm,991,20395,,Range30108a,30/10/2025 14:38,25/11/2025 21:05,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestGlobalAccount-RETRFL-UK-Up,981,20309,,TestGlobal-28071,28/07/2025 11:16,22/10/2025 21:06,By Category,All Categories,Supplier Summary,Not in Scope,
+TestGlobalAccount-RETRFL-UK-Up,981,20310,,TestGlobal-28072,28/07/2025 11:19,22/10/2025 21:06,By Category,All Categories,Supplier Summary,Not in Scope,
+TestGlobalAccount-RETRFL-UK-Up,981,20315,,TestOld-29071,29/07/2025 09:28,29/07/2025 09:29,By Category,All Categories,Supplier Summary,Not in Scope,
+TestGlobalAccount-RETRFL-UK-Up,981,20321,,TestMultiple-UK,29/07/2025 22:02,29/07/2025 22:02,By Category,All Categories,Supplier Summary,Not in Scope,
+TestGlobalAccount-RETRFL-UK-Up,981,20322,,TestMultiple-UK-2,29/07/2025 22:04,29/07/2025 22:04,By Category,All Categories,Supplier Summary,Not in Scope,
+TestGlobalAccount-RETRFL-UK-Up,981,20323,,TestMultiple-UK-3,29/07/2025 22:06,29/07/2025 22:06,By Category,All Categories,Supplier Summary,Not in Scope,
+TestGlobalAccount-RETRFL-UK-Up,981,20324,,TestMultiple-UK-4,29/07/2025 22:15,29/07/2025 22:15,By Category,All Categories,Supplier Summary,Not in Scope,
+TestGlobalAccount-RETRFL-UK-Up,981,20325,,TestMultiple-UK-4,29/07/2025 22:19,29/07/2025 22:20,By Category,All Categories,Supplier Summary,Not in Scope,
+TestGlobalAccount-RETRFL-UK-Up,981,20326,,TestMultiple-UK-6,29/07/2025 22:25,29/07/2025 22:26,By Category,All Categories,Supplier Summary,Not in Scope,
+TestGlobalAccount-RETRFL-UK-Up,981,20327,,TestMultiple-UK-6,29/07/2025 22:35,29/07/2025 22:36,By Category,All Categories,Supplier Summary,Not in Scope,
+TestGlobalAccount-RETRFL-UK-Up,981,20335,,Test30071,30/07/2025 15:15,30/07/2025 15:16,By Category,All Categories,Supplier Summary,Not in Scope,
+TestGlobalAccount-RETRFL-UK-Up,981,20336,,Test30072,30/07/2025 14:22,30/07/2025 14:22,By Category,All Categories,Supplier Summary,Not in Scope,
+TestGlobalAccount-RETRFL-UK-Up,981,20356,,310720251412Test,31/07/2025 14:36,31/07/2025 14:36,By Category,All Categories,Supplier Summary,Not in Scope,
+TestRetailer-UnitedKingdom-1,966,19707,,T12 - Upload1,13/10/2023 12:57,29/10/2024 17:35,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19708,,UK Range 19101,19/10/2023 21:59,29/10/2024 17:35,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19709,,UK Range 19102,19/10/2023 22:51,29/10/2024 17:35,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19710,,UK Range 20101,20/10/2023 11:29,29/10/2024 17:35,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19711,,UK Range 20102,20/10/2023 13:12,29/10/2024 17:35,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19712,,NotLive-Upload1,20/10/2023 15:39,29/10/2024 17:35,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19713,,UK Miniscoff,20/10/2023 18:19,29/10/2024 17:35,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19714,,UK OCOM Range,20/10/2023 18:52,29/10/2024 17:35,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19715,,NoGTINMatch-11111111,26/10/2023 22:05,29/10/2024 17:35,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19716,,8digitProductcode,26/10/2023 22:16,29/10/2024 17:35,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19717,,13digitProductcode,26/10/2023 22:21,29/10/2024 17:35,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19718,,InactiveSubcode,26/10/2023 23:27,29/10/2024 17:35,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19719,,14digitcode,27/10/2023 11:48,29/10/2024 17:35,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19720,,13digitcodepadded0,27/10/2023 12:26,29/10/2024 17:35,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19721,,ArlaPC,27/10/2023 14:43,29/10/2024 17:35,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19722,,ArlaPC-PLSubcode,27/10/2023 12:59,29/10/2024 17:35,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19724,,2710Range-UK1,27/10/2023 13:56,29/10/2024 17:35,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19725,,ExcellencenoTM,27/10/2023 14:01,29/10/2024 17:35,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19726,,ExcellenceUS,27/10/2023 14:04,29/10/2024 17:35,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19727,,SapphireUSCompanyGBSubcode,27/10/2023 16:02,29/10/2024 17:35,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19728,,EANNotLive-2710,27/10/2023 21:12,29/10/2024 17:35,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19730,,InactiveSubcode-2710,27/10/2023 22:09,,By Category,All Categories,Supplier Summary,Not in Scope,
+TestRetailer-UnitedKingdom-1,966,19731,,GB-InactiveSubcode,27/10/2023 22:16,,By Category,All Categories,Supplier Summary,Not in Scope,
+TestRetailer-UnitedKingdom-1,966,19732,,GB-InactiveSubcode1,27/10/2023 22:38,29/10/2024 17:35,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19733,,GB-InactiveSupplier,27/10/2023 22:56,29/10/2024 17:36,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19734,,GB-AC89,27/10/2023 23:22,29/10/2024 17:36,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19735,,GbActiveSS,30/09/2024 16:08,29/10/2024 17:36,By Category,All Categories,Supplier Summary,Not in Scope,
+TestRetailer-UnitedKingdom-1,966,19737,,Test30101,08/03/2024 20:36,29/10/2024 17:36,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19738,,test30102,30/10/2023 20:42,29/10/2024 17:36,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19739,,test30103,30/10/2023 20:47,29/10/2024 17:36,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19740,,checkfr,07/03/2024 17:15,29/10/2024 17:36,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19741,,checkfr2,30/10/2023 21:20,29/10/2024 17:36,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19742,,checkfrance,30/10/2023 21:37,29/10/2024 17:36,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19743,,Testac,30/10/2023 22:01,29/10/2024 17:36,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19744,,TestActives,30/10/2023 22:15,29/10/2024 17:36,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19745,,Digit,30/10/2023 22:38,29/10/2024 17:36,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19746,,gtin,30/10/2023 22:50,29/10/2024 17:36,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19747,,GTIN Match-1,30/10/2023 23:06,29/10/2024 17:36,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19748,,GTIN Match-IE,30/10/2023 23:25,29/10/2024 17:36,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19749,,GTINMatch-DifferentDigits,30/10/2023 23:44,29/10/2024 17:36,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19750,,GTINMatch-EANNotLive,31/05/2024 20:02,31/05/2024 19:58,By Category,All Categories,Supplier Summary,Not in Scope,
+TestRetailer-UnitedKingdom-1,966,19751,,GTINMatch-ActiveCheck,31/10/2023 00:00,29/10/2024 17:36,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19752,,GTINMatch-AandOCode,31/10/2023 00:12,29/10/2024 17:36,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19753,,GTINMatch-DifferentAccountTypes,31/10/2023 00:22,29/10/2024 17:36,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19754,,GTINMatch-GBandFR,31/10/2023 00:30,29/10/2024 17:36,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19758,,Match1and2-1,23/11/2023 21:12,29/10/2024 17:36,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,19759,,Match1and2-2,23/11/2023 21:24,29/10/2024 17:36,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,20000,,RangeSal21062,26/06/2024 21:55,24/09/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+TestRetailer-UnitedKingdom-1,966,20001,,RangeSal21062,21/06/2024 17:39,17/07/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+TestRetailer-UnitedKingdom-1,966,20002,,RangeSal21063,21/06/2024 17:47,16/12/2025 21:25,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+TestRetailer-UnitedKingdom-1,966,20056,,GbActiveSS,30/09/2024 16:20,,By Category,All Categories,Supplier Summary,Not in Scope,
+TestRetailer-UnitedKingdom-1,966,20255,,Test Batch 400k,24/02/2025 16:08,24/02/2025 16:16,By Category,All Categories,Supplier Summary,Not in Scope,
+TestRetailer-UnitedKingdom-1,966,20256,,Test2 400k,13/02/2025 12:26,13/02/2025 12:28,By Category,All Categories,Supplier Summary,Not in Scope,
+TestRetailer-UnitedKingdom-1,966,20257,,Test US 500k,19/02/2025 19:56,19/02/2025 20:02,By Category,All Categories,Supplier Summary,Not in Scope,
+TestRetailer-UnitedKingdom-1,966,20333,,Test-Harry4,30/07/2025 11:16,30/07/2025 11:17,By Category,All Categories,Supplier Summary,Not in Scope,
+TestRetailer-UnitedKingdom-1,966,20334,,Test-Harry5,30/07/2025 11:17,30/07/2025 11:18,By Category,All Categories,Supplier Summary,Not in Scope,
+Totalley - Syndication,911,12257,,Totalley - Syndication (Test Range),10/08/2021 09:33,25/07/2023 17:53,By Category,All Categories,Supplier Summary,Not in Scope,
+Training,396,20163,,TestTraining,25/10/2024 19:57,,By Category,All Categories,Supplier Summary,Not in Scope,
+Turner price,961,12569,,Turner price check range,17/03/2022 15:35,,By Category,All Categories,Supplier Summary,Not in Scope,
+Turner price,961,12570,,Turner price check range,17/03/2022 15:38,,By Category,All Categories,Supplier Summary,Not in Scope,
+Turner price,961,12571,,Turner price check range,17/03/2022 15:42,,By Category,All Categories,Supplier Summary,Not in Scope,
+Turner price,961,12579,,Turner Check Range,22/03/2022 17:17,25/07/2023 22:08,By Category,All Categories,Supplier Summary,Not in Scope,
+UAB Palink,931,12371,,UK,04/11/2021 16:13,25/07/2023 18:27,By Category,All Categories,Supplier Summary,Not in Scope,
+UAB Palink,931,12372,,HU,04/11/2021 16:21,25/07/2023 18:28,By Category,All Categories,Supplier Summary,Not in Scope,
+UAB Palink,931,12373,,SK,04/11/2021 16:27,25/07/2023 18:28,By Category,All Categories,Supplier Summary,Not in Scope,
+UAB Palink,931,12374,,CZ,04/11/2021 16:33,25/07/2023 18:29,By Category,All Categories,Supplier Summary,Not in Scope,
+UAB Palink,931,12378,,PL,05/11/2021 15:51,25/07/2023 18:29,By Category,All Categories,Supplier Summary,Not in Scope,
+Ubermarket,935,12388,Testing - Regression,Ubermarket Coverage Check,11/11/2021 17:26,,By Category,All Categories,Supplier Summary,Not in Scope,
+Ubermarket,935,12389,,Ubermarket Coverage Check,11/11/2021 17:54,25/07/2023 18:53,By Category,All Categories,Supplier Summary,Not in Scope,
+Ubermarket,935,19862,,SuppierMap,12/02/2024 20:54,29/10/2024 17:38,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Ubermarket,935,20012,,SAL102124,21/06/2024 18:39,21/06/2024 18:39,By Category,All Categories,Supplier Summary,Not in Scope,
+Udex/Tesco,10,20242,,TestRetailer - Udex/Tesco,29/10/2024 10:43,28/01/2025 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Unilever,914,12277,Testing - Regression,Unilever Category Insights JSON Files,15/03/2022 16:06,25/07/2023 17:56,By Category,All Categories,Supplier Summary,Not in Scope,
+Unitas,953,12493,,Unitas On-Trade,03/02/2022 16:18,,By Category,All Categories,Supplier Summary,Not in Scope,
+Unitas,953,12494,,Unitas On-Trade,03/02/2022 16:23,25/07/2023 21:54,By Category,All Categories,Supplier Summary,Not in Scope,
+Unitas,953,12495,,Unitas Foodservice,04/02/2022 11:07,25/07/2023 21:55,By Category,All Categories,Supplier Summary,Not in Scope,
+Unitas,953,12497,,Unitas Retail,07/02/2022 14:06,25/07/2023 21:55,By Category,All Categories,Supplier Summary,Not in Scope,
+Unitas,953,12499,,Unitas Core,08/02/2022 09:43,25/07/2023 21:55,By Category,All Categories,Supplier Summary,Not in Scope,
+Unitas,953,15614,,Test Sheet1,09/05/2023 19:24,25/07/2023 22:20,By Category,All Categories,Supplier Summary,Not in Scope,
+Unitas,953,20281,,SuUnitasTest-09042025-1,09/04/2025 22:08,09/04/2025 22:08,By Category,All Categories,Supplier Summary,Not in Scope,
+United Wholesale Grocers - UWG,440,9177,,XML Range,12/05/2021 20:38,27/07/2023 02:11,By Category,All Categories,Supplier Summary,Not in Scope,
+Villa Market (Belgium),733,11676,,Villa Market,29/05/2020 15:22,26/07/2023 15:32,By Category,All Categories,Supplier Summary,Not in Scope,
+Villa Market (NL Match),732,11675,,Villa Market,29/05/2020 14:42,26/07/2023 15:32,By Category,All Categories,Supplier Summary,Not in Scope,
+Waitrose,20,535,"UK Merchandising Reports, Retail View, UK Live Retail Reports , Exchange Currency Check, UK Content Usage Matrix, 1169 Reporting Group, UK Sales Reports, Order Cycle Times, UK Sales Reports, UK XMLs 2021",Waitrose All Data XML Feed,02/05/2023 20:30,13/02/2025 21:14,By Category,All Categories,Supplier Summary,Not in Scope,
+Waitrose,20,11582,"UK & IE Sales Reports, UK & IE Sales Reports Salesforce Chasing, Nikoli P UK Salesforce Ranges",NEW Essential Range,16/04/2020 09:49,29/10/2024 17:05,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Waitrose,20,11685,Salesforce Test Ranges -TEST Only,Waitrose Salesforce Test - DO NOT USE,09/06/2020 16:18,29/10/2024 17:06,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Waitrose,20,11931,UK & IE Sales Reports,WTR MOI,22/03/2021 17:52,29/10/2024 17:12,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Waitrose,20,12095,UK & IE Sales Reports,Duchy MOI Range,08/04/2021 15:33,29/10/2024 17:15,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Waitrose,20,12112,"UK & IE Sales Reports, UK&IE SF Web & Revisions ranges",Waitrose ecomm Missing Images,30/03/2022 18:13,13/02/2025 21:09,By Category,All Categories,Supplier Summary,Not in Scope,
+Waitrose,20,12319,UK&IE SF MOI ranges,OL NPD MOI,25/03/2022 18:02,29/10/2024 17:21,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Waitrose,20,12328,UK&IE SF MOI ranges,Backlog MOI,14/01/2022 16:03,29/10/2024 17:22,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Waitrose,20,12519,UK&IE SF Web & Revisions ranges,Milk Redesign,22/02/2022 15:39,29/10/2024 17:30,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Waitrose,20,12544,UK&IE SF Web & Revisions ranges,Upcoming Launches,04/03/2022 14:32,29/10/2024 17:30,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Waitrose,20,15611,,Waitrose All Data XML Feed 01,02/05/2023 20:34,29/10/2024 17:32,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Waitrose,20,15612,,Waitrose All Data XML Feed 01,02/05/2023 21:04,29/10/2024 17:32,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Waitrose,20,19681,,TestRangeNew001,04/10/2023 21:09,29/10/2024 17:34,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Waitrose,20,19682,,TestRangeNew001,04/10/2023 21:11,29/10/2024 17:34,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Waitrose,20,19683,,RETR137Test01,08/01/2024 21:44,29/10/2024 17:34,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Waitrose,20,19770,,RID-2711135,27/11/2023 17:57,29/10/2024 17:36,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Waitrose,20,19771,,RID-2711136,27/11/2023 18:22,29/10/2024 17:36,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Waitrose,20,19772,,RID-2711137,04/01/2024 17:32,29/10/2024 17:36,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Waitrose,20,19773,,RID-2711138,27/11/2023 18:44,29/10/2024 17:36,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Waitrose,20,19774,,RID-2711139,27/11/2023 20:42,29/10/2024 17:36,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Waitrose,20,19775,,GTIN and Supplier,28/11/2023 12:09,29/10/2024 17:36,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Waitrose,20,19776,,Waitrose-GTINMatch1,28/11/2023 13:19,29/10/2024 17:37,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Waitrose,20,19778,,Waitrose-SupplierMatch1,28/11/2023 13:34,29/10/2024 17:37,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Waitrose,20,19779,,Waitrose-SupplierMatchAndBrandbankCompany1,28/11/2023 13:43,29/10/2024 17:37,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Waitrose,20,19866,,Import16021,16/02/2024 14:13,29/10/2024 17:38,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Waitrose,20,19873,,070324Test1,07/03/2024 14:56,,By Category,All Categories,Supplier Summary,Not in Scope,
+Waitrose,20,19874,,07031Test1,07/03/2024 14:57,,By Category,All Categories,Supplier Summary,Not in Scope,
+Waitrose,20,19875,,07031Test1,07/03/2024 14:59,,By Category,All Categories,Supplier Summary,Not in Scope,
+Waitrose,20,19876,,07031Test1,12/03/2024 18:50,29/10/2024 17:38,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Waitrose,20,19877,,Test1,31/05/2024 20:45,01/06/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Waitrose,20,19878,,Check-IR,10/04/2024 18:38,10/04/2024 18:39,By Category,All Categories,Supplier Summary,Not in Scope,
+Waitrose,20,20020,,SAL-1021-DM01,02/07/2024 18:28,08/07/2024 21:06,By Category,All Categories,Supplier Summary,Not in Scope,
+Waitrose,20,20021,,SAL-1021-DM2,08/07/2024 20:44,08/09/2024 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Waitrose,20,20022,,SAL-1021-DM03,02/07/2024 18:39,29/10/2024 17:39,By Category,All Categories,Supplier Summary,Not in Scope,
+Waitrose,20,20023,,SAL 1021-DM04,02/07/2024 19:14,29/10/2024 17:39,By Category,All Categories,Supplier Summary,Not in Scope,
+Waitrose,20,20171,,RETR336DemoTest1,28/10/2024 18:03,,By Category,All Categories,Supplier Summary,Not in Scope,
+Waitrose,20,20172,,RETR336DemoTest1,28/10/2024 18:24,28/10/2024 18:30,By Category,All Categories,Supplier Summary,Not in Scope,
+Waitrose,20,20278,,SuWaitroseTest-080420251,08/04/2025 18:51,08/07/2025 21:05,By Category,All Categories,Supplier Summary,Not in Scope,
+Waitrose,20,20279,,SuWaitroseTest-080420252,08/04/2025 18:57,09/07/2025 21:06,By Category,All Categories,Supplier Summary,Not in Scope,
+Waitrose Merchandising,928,12358,UK&IE SF Merch ranges,Merchandising Project,08/11/2021 16:34,13/02/2025 21:12,By Category,All Categories,Supplier Summary,Not in Scope,
+Watsons The Look - UK,820,11986,COMSC-677 - 2406-2,Watsons The Look - UK,21/01/2021 11:34,,By Category,All Categories,Supplier Summary,Not in Scope,
+Watsons The Look - UK,820,11987,,Watsons The Look - UK,01/12/2021 17:04,27/07/2023 08:15,By Category,All Categories,Supplier Summary,Not in Scope,
+Well Pharmacy,479,16636,,DaveTestData20,09/05/2023 21:39,25/07/2023 22:21,By Category,All Categories,Supplier Summary,Not in Scope,
+Wholefoods market,407,15636,,Data21-SameUIDNoFewDates,09/05/2023 13:34,25/07/2023 22:21,By Category,All Categories,Supplier Summary,Not in Scope,
+Wholefoods market,407,15637,,Data22-DiffUIDNodatesforFew,09/05/2023 13:38,25/07/2023 22:21,By Category,All Categories,Supplier Summary,Not in Scope,
+Wholefoods market,407,19756,,OtherEANTest,17/11/2023 20:08,29/10/2024 17:36,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Wine Cellar,42,16635,,DaveTestData,09/05/2023 20:52,25/07/2023 22:21,By Category,All Categories,Supplier Summary,Not in Scope,
+Wine Cellar,42,19694,,Test121020231,12/10/2023 13:51,29/10/2024 17:34,By Category,All Categories,Supplier Summary,Not in Scope,Yes
+Woods Food Service,154,16638,,DaveTestDataPart2,09/05/2023 21:54,25/07/2023 22:21,By Category,All Categories,Supplier Summary,Not in Scope,
+Zeki Global,814,11962,,Coverage check,11/01/2021 14:20,27/07/2023 08:03,By Category,All Categories,Supplier Summary,Not in Scope,
+Zeki Global - Digital,821,11988,,Coverage Check,22/01/2021 15:52,27/07/2023 08:29,By Category,All Categories,Supplier Summary,Not in Scope,

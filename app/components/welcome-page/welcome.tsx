@@ -1,5 +1,6 @@
-import logoDark from "./logo-dark.svg";
-import logoLight from "./logo-light.svg";
+import logoDark from "/app/assets/logo-dark.svg";
+import logoLight from "/app/assets/logo-light.svg";
+import { NavLink } from "react-router";
 
 export function Welcome() {
   return (
@@ -18,7 +19,18 @@ export function Welcome() {
               className="hidden w-full dark:block"
             />
           </div>
-        </header>
+        </header><div className="max-w-[500px] w-full space-y-6 px-4">
+          <nav className="rounded-3xl border border-gray-200 p-6 dark:border-gray-700 space-y-4">
+            <p className="leading-6 text-gray-700 dark:text-gray-200 text-center">
+              Pages
+            </p>
+            <ul>
+              <li><NavLink to="/mui-list">MUI X Data Grid example</NavLink></li>
+              <li><NavLink to="/react-list">React Infinite Scroll Component example</NavLink></li>
+              <li><NavLink to="/about">About</NavLink></li>
+            </ul>
+          </nav>
+        </div>
         <div className="max-w-[300px] w-full space-y-6 px-4">
           <nav className="rounded-3xl border border-gray-200 p-6 dark:border-gray-700 space-y-4">
             <p className="leading-6 text-gray-700 dark:text-gray-200 text-center">
